@@ -2,7 +2,7 @@
   "name": "forsage",
   "version": "1.0.0",
   "description": "forsage site",
-  "author": "potapov.nikita <potapov.nikita@itmh.ru>",
+  "author": "potapov.nikita93 <potapov.nikita@itmh.ru>",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
