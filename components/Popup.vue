@@ -43,7 +43,7 @@
         },
         methods: {
             onClickOutside (event) {
-                if(this.isOpenPopup) this.$emit('close')
+                //if(this.isOpenPopup) this.$emit('close')
             }
         },
         computed: {
