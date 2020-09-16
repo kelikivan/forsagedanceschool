@@ -1,7 +1,7 @@
 <template lang="pug">
     .popup-wrapper
         .popup_overlay(:class="{'popup-close': !isOpenPopup}")
-        .popup_container(:class="{'popup-close': !isOpenPopup}" v-click-outside="onClickOutside")
+        .popup_container(:class="{'popup-close': !isOpenPopup}" v-if="isOpenPopup" v-click-outside="onClickOutside")
             .popup_inner-container
                 div(v-if="component === 'prices'")
                     Prices
@@ -43,7 +43,7 @@
         },
         methods: {
             onClickOutside (event) {
-                //if(this.isOpenPopup) this.$emit('close')
+                if (this.isOpenPopup) this.$emit('close')
             }
         },
         computed: {

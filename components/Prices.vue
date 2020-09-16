@@ -35,9 +35,7 @@
                         .cell(v-html="item.MonthPrice")
 
         h3.title.title-prices
-            | Не можешь выбрать?
-            br
-            |Приди на пробное занятие бесплатно!
+            | Пробное занятие - бесплатно!
 
 
 </template>
