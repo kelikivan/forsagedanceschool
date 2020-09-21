@@ -14,17 +14,17 @@
                             "IsGeneral":true
                         },
                         {
-                            "Name":"JUNIORS I</br>(10-16 лет)",
+                            "Name":"KIDS III</br>(7-9 лет)",
                             "Teacher":"Бухаров Данил",
                             "LessonStart":"16:00",
-                            "LessonEnd":"17:30",
+                            "LessonEnd":"17:00",
                             "IsGeneral":true
                         },
                         {
-                            "Name":"JUNIORS III</br>(10-16 лет)",
-                            "Teacher":"Швецов Никита",
-                            "LessonStart":"17:30",
-                            "LessonEnd":"19:00",
+                            "Name":"JUNIORS I</br>(10-16 лет)",
+                            "Teacher":"Бухаров Данил",
+                            "LessonStart":"17:00",
+                            "LessonEnd":"18:30",
                             "IsGeneral":true
                         },
                         {
@@ -40,15 +40,8 @@
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
                         {
-                            "Name":"KIDS III</br>(7-9 лет)",
-                            "Teacher":"Открыт набор!",
-                            "LessonStart":"16:00",
-                            "LessonEnd":"17:30",
-                            "IsGeneral":true
-                        },
-                        {
                             "Name":"ADULTS(17+)",
-                            "Teacher":"Гайфуллина/Сулейманова",
+                            "Teacher":"Гайфуллина/Сулейманова/Швецов",
                             "LessonStart":"19:00",
                             "LessonEnd":"20:30",
                             "IsGeneral":true
@@ -66,17 +59,17 @@
                             "IsGeneral":true
                         },
                         {
-                            "Name":"JUNIORS I</br>(10-16 лет)",
+                            "Name":"KIDS III</br>(7-9 лет)",
                             "Teacher":"Бухаров Данил",
                             "LessonStart":"16:00",
-                            "LessonEnd":"17:30",
+                            "LessonEnd":"17:00",
                             "IsGeneral":true
                         },
                         {
-                            "Name":"JUNIORS III</br>(10-16 лет)",
-                            "Teacher":"Сысоев Антон",
-                            "LessonStart":"17:30",
-                            "LessonEnd":"19:00",
+                            "Name":"JUNIORS I</br>(10-16 лет)",
+                            "Teacher":"Бухаров Данил/Сысоев Антон",
+                            "LessonStart":"17:00",
+                            "LessonEnd":"18:30",
                             "IsGeneral":true
                         },
                         {
@@ -91,13 +84,6 @@
                 {
                     "WeekDay":"ЧЕТВЕРГ",
                     "Groups":[
-                        {
-                            "Name":"KIDS III</br>(7-9 лет)",
-                            "Teacher":"Открыт набор!",
-                            "LessonStart":"16:00",
-                            "LessonEnd":"17:30",
-                            "IsGeneral":true
-                        },
                         {
                             "Name":"JUNIORS III</br>(10-16 лет)",
                             "Teacher":"Тимирбаева Диана",
@@ -125,10 +111,17 @@
                             "IsGeneral":true
                         },
                         {
-                            "Name":"JUNIORS I</br>(10-16 лет)",
-                            "Teacher":"Швецов Никита",
+                            "Name":"KIDS III</br>(7-9 лет)",
+                            "Teacher":"Бухаров Данил",
                             "LessonStart":"16:00",
-                            "LessonEnd":"17:30",
+                            "LessonEnd":"17:00",
+                            "IsGeneral":true
+                        },
+                        {
+                            "Name":"JUNIORS I</br>(10-16 лет)",
+                            "Teacher":"Бухаров Данил/Швецов Никита",
+                            "LessonStart":"17:00",
+                            "LessonEnd":"18:30",
                             "IsGeneral":true
                         },
                         {
@@ -182,7 +175,7 @@
                     "Groups":[
                         {
                             "Name":"JUNIORS IV</br>(10-16 лет)",
-                            "Teacher":"Открыт набор",
+                            "Teacher":"Открыт набор</br>Алёшина Катя",
                             "LessonStart":"10:30",
                             "LessonEnd":"12:00",
                             "IsGeneral":true
@@ -195,7 +188,7 @@
                             "IsGeneral":true
                         },
                         {
-                            "Name":"SENIORS(30+)",
+                            "Name":"SENIORS</br>(30+)",
                             "Teacher":"Вахонина Ирина",
                             "LessonStart":"19:30",
                             "LessonEnd":"21:00",
@@ -206,13 +199,6 @@
                 {
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
-                        {
-                            "Name":"JUNIORS V</br>(10-16 лет)",
-                            "Teacher":"Открыт набор",
-                            "LessonStart":"16:00",
-                            "LessonEnd":"17:30",
-                            "IsGeneral":true
-                        },
                         {
                             "Name":"BABY I</br>(5-6 лет)",
                             "Teacher":"Ивонина Катя",
@@ -241,7 +227,7 @@
                     "Groups":[
                         {
                             "Name":"JUNIORS IV</br>(10-16 лет)",
-                            "Teacher":"Открыт набор",
+                            "Teacher":"Открыт набор</br>Алёшина Катя",
                             "LessonStart":"10:30",
                             "LessonEnd":"12:00",
                             "IsGeneral":true
@@ -259,13 +245,6 @@
                     "WeekDay":"ЧЕТВЕРГ",
                     "Groups":[
                         {
-                            "Name":"JUNIORS V</br>(10-16 лет)",
-                            "Teacher":"Открыт набор",
-                            "LessonStart":"16:00",
-                            "LessonEnd":"17:30",
-                            "IsGeneral":true
-                        },
-                        {
                             "Name":"BABY I</br>(5-6 лет)",
                             "Teacher":"Ивонина Катя",
                             "LessonStart":"17:30",
@@ -280,7 +259,7 @@
                             "IsGeneral":true
                         },
                         {
-                            "Name":"SENIORS(30+)",
+                            "Name":"SENIORS</br>(30+)",
                             "Teacher":"Вахонина Ирина",
                             "LessonStart":"19:30",
                             "LessonEnd":"21:00",
@@ -293,16 +272,9 @@
                     "Groups":[
                         {
                             "Name":"JUNIORS IV</br>(10-16 лет)",
-                            "Teacher":"Открыт набор",
+                            "Teacher":"Открыт набор</br>Алёшина Катя",
                             "LessonStart":"10:30",
                             "LessonEnd":"12:00",
-                            "IsGeneral":true
-                        },
-                        {
-                            "Name":"JUNIORS V</br>(10-16 лет)",
-                            "Teacher":"Открыт набор",
-                            "LessonStart":"16:00",
-                            "LessonEnd":"17:30",
                             "IsGeneral":true
                         },
                         {
