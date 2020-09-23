@@ -40,6 +40,13 @@
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
                         {
+                            "Name":"JUNIORS III</br>(10-16 лет)",
+                            "Teacher":"Келик Иван/Швецов Никита",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"19:00",
+                            "IsGeneral":true
+                        },
+                        {
                             "Name":"ADULTS(17+)",
                             "Teacher":"Гайфуллина/Сулейманова/Швецов",
                             "LessonStart":"19:00",
