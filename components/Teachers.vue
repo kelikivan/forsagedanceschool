@@ -21,6 +21,8 @@
                                     InstaLogo
                                 a.social-link(:href="selectedTeacher.Vk", target="_blank")
                                     VkLogo
+                                a.social-link(:href="selectedTeacher.YouTube", target="_blank")
+                                    YouTubeLogo
                         .style(v-html="selectedTeacher.Styles")
                         .description.text_default(v-html="selectedTeacher.Description")
 
@@ -30,6 +32,7 @@
     import Data from '~/assets/staticData/teachers.json'
     import InstaLogo from '~/assets/img/social/instagram-logo.svg'
     import VkLogo from '~/assets/img/social/vk-logo.svg'
+    import YouTubeLogo from '~/assets/img/social/youtube.svg'
 
     export default {
         data() {
@@ -43,7 +46,8 @@
         },
         components: {
             InstaLogo,
-            VkLogo
+            VkLogo,
+            YouTubeLogo
         },
         methods: {
             getBgImg(url) {
