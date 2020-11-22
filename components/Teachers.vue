@@ -32,7 +32,7 @@
     import Data from '~/assets/staticData/teachers.json'
     import InstaLogo from '~/assets/img/social/instagram-logo.svg'
     import VkLogo from '~/assets/img/social/vk-logo.svg'
-    import YouTubeLogo from '~/assets/img/social/youtube.svg'
+    import YouTubeLogo from '~/assets/img/social/youtube-logo.svg'
 
     export default {
         data() {
