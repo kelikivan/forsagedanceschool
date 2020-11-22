@@ -7,7 +7,8 @@
         "ImagePath":"img/teachers/kelik.png",
         "SmallImagePath":"img/teachers/kelik2.png",
         "Instagram":"https://www.instagram.com/kelik_vanches/",
-        "Vk":"https://vk.com/kelik_vanches"
+        "Vk":"https://vk.com/kelik_vanches",
+        "YouTube":"https://youtu.be/2QkkSzZWtrU"
     },
     {
         "Name": "ДАНИЛ БУХАРОВ",
@@ -16,7 +17,8 @@
         "ImagePath":"img/teachers/buharov.png",
         "SmallImagePath":"img/teachers/buharov2.png",
         "Instagram":"https://www.instagram.com/melky_forsage/",
-        "Vk":"https://vk.com/melky_forsage"
+        "Vk":"https://vk.com/melky_forsage",
+        "YouTube":"https://youtu.be/dzA3H67SKl8"
     },
     {
         "Name": "ЛИЛИЯ ГАЙФУЛЛИНА",
@@ -25,7 +27,8 @@
         "ImagePath":"img/teachers/lili.png",
         "SmallImagePath":"img/teachers/lili2.png",
         "Instagram":"https://www.instagram.com/lili_gaifullina/",
-        "Vk":"https://vk.com/lili_gaifullina"
+        "Vk":"https://vk.com/lili_gaifullina",
+        "YouTube":"https://youtu.be/oRsXAWb88VM"
     },
     {
         "Name": "АННА КОСЬЯНОВА",
@@ -34,7 +37,8 @@
         "ImagePath":"img/teachers/kosyanova.png",
         "SmallImagePath":"img/teachers/kosyanova2.png",
         "Instagram":"https://www.instagram.com/anchous1581/",
-        "Vk":"https://vk.com/anchous1581"
+        "Vk":"https://vk.com/anchous1581",
+        "YouTube":""
     },
     {
         "Name": "ЕКАТЕРИНА ИВОНИНА",
@@ -43,7 +47,8 @@
         "ImagePath":"img/teachers/ivonina.png",
         "SmallImagePath":"img/teachers/ivonina3.png",
         "Instagram":"https://www.instagram.com/_iva__k/",
-        "Vk":"https://vk.com/id57413448"
+        "Vk":"https://vk.com/id57413448",
+        "YouTube":"https://youtu.be/-5Mb9lqRuI4"
     },
     {
         "Name": "КРУТИКОВА АЛЕНА",
@@ -52,7 +57,8 @@
         "ImagePath":"img/teachers/krutikova.png",
         "SmallImagePath":"img/teachers/krutikova3.png",
         "Instagram":"https://www.instagram.com/allen_twist/",
-        "Vk":"https://vk.com/id184062194"
+        "Vk":"https://vk.com/id184062194",
+        "YouTube":""
     },
     {
         "Name": "ЛАДА ИСАКОВА",
@@ -61,7 +67,8 @@
         "ImagePath":"img/teachers/ladon.png",
         "SmallImagePath":"img/teachers/ladon2.png",
         "Instagram":"https://www.instagram.com/l_isakova16/",
-        "Vk":"https://vk.com/mega_ladon16"
+        "Vk":"https://vk.com/mega_ladon16",
+        "YouTube":""
     },
     {
         "Name": "ЕКАТЕРИНА АЛЕШИНА",
@@ -70,7 +77,8 @@
         "ImagePath":"img/teachers/aleshina.png",
         "SmallImagePath":"img/teachers/aleshina2.png",
         "Instagram":"https://www.instagram.com/ale_ale_aleshina/",
-        "Vk":"https://vk.com/ale_ale_aleshina"
+        "Vk":"https://vk.com/ale_ale_aleshina",
+        "YouTube":"https://youtu.be/iuZHfs2-ivg"
     },
     {
         "Name": "АРИНА СУЛЕЙМАНОВА",
@@ -79,7 +87,8 @@
         "ImagePath":"img/teachers/arisha.png",
         "SmallImagePath":"img/teachers/arisha2.png",
         "Instagram":"https://www.instagram.com/daamn_ara/",
-        "Vk":"https://vk.com/ara_uzu"
+        "Vk":"https://vk.com/ara_uzu",
+        "YouTube":"https://youtu.be/EbOXr3PASO0"
     },
     {
         "Name": "ИРИНА ВАХОНИНА",
@@ -88,7 +97,8 @@
         "ImagePath":"img/teachers/irina.png",
         "SmallImagePath":"img/teachers/irina2.png",
         "Instagram":"https://www.instagram.com/vahonina_irishka/",
-        "Vk":"https://vk.com/vahonina_irishka"
+        "Vk":"https://vk.com/vahonina_irishka",
+        "YouTube":"https://youtu.be/bIwHwKTRFuQ"
     }
   ]
 }
