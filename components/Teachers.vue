@@ -195,7 +195,7 @@
                             cursor pointer
                             margin-left 15px
                             svg
-                                width 30px
+                                width 35px
                                 height 30px
                                 fill white
                                 opacity 0.5
