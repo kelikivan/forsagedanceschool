@@ -36,7 +36,7 @@
                 phone: '',
                 errorName: false,
                 errorPhone: false,
-                formDesc: 'Запишись на занятия и получи скидку 25% на&nbsp;свой&nbsp;первый абонемент!',
+                formDesc: 'Запишись на занятия и получи скидку 20% на&nbsp;свой&nbsp;первый абонемент!',
                 emailStatus: '',
                 emailStatusErr: '',
                 phoneNumber: Contacts.Contacts.Phone,
@@ -165,7 +165,7 @@
                 top 10px
                 color green
                 &.err
-                    color red
+                    color #ff0000
 
     .lds-dual-ring {
         display: inline-block;
