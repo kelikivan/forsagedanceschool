@@ -60,6 +60,7 @@
                 this.selectedTeacherIndex = index
                 const offsetLeft = Array.from(document.getElementsByClassName('photo'))[index].offsetLeft
                 const offsetTop = Array.from(document.getElementsByClassName('photo'))[index].offsetTop
+
                 document.getElementById('active').style.display = 'block' // костыль
                 let activeSlider = document.getElementById('active').style
 
@@ -73,7 +74,7 @@
                 const heightPhoto = Array.from(document.getElementsByClassName('photo'))[index].clientHeight
                 const heightSlider = document.getElementById('active').clientHeight
                 const indexRow = this.rowVol - Math.ceil((index + 1) / 4)
-                const heightSliderConst =  this.rowVol > 1 ? heightSlider : 0
+
                 activeSlider.transform = `translate(${offsetLeft}px, ${-(heightPhoto + heightSlider) * indexRow}px)`
                 setTimeout(() => {
                     activeSlider.opacity = '1'
@@ -90,7 +91,7 @@
                 if((index + 1) % 4 === 0) item.style.marginRight = '0' // каждый 4 элемент без маргина справа
             })
 
-            const fullRow = (elems.length % 4) * 4 // количество преподов в полном ряду
+            const fullRow = ~~((elems.length - 1) / 4) * 4 // количество преподов в полном ряду
             const photosMarginRight = elems.slice(0, fullRow)
 
             photosMarginRight.forEach((item) => {

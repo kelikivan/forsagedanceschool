@@ -21,26 +21,6 @@
         "YouTube":"https://youtu.be/dzA3H67SKl8"
     },
     {
-        "Name": "ЛИЛИЯ ГАЙФУЛЛИНА",
-        "Styles": "Dancehall, хореография",
-        "Description":"Многократный призер и чемпион России, Европы и Мира по версии Hip Hop Unite.<br><br>Тренер юниорской команды L-CREW<br><br>Осваивала направления: dancehall, vogue, waacking, locking, hip-hop, house, breaking.<br><br>КМС по хип-хопу. Педагог доп образования!",
-        "ImagePath":"img/teachers/lili.png",
-        "SmallImagePath":"img/teachers/lili2.png",
-        "Instagram":"https://www.instagram.com/lili_gaifullina/",
-        "Vk":"https://vk.com/lili_gaifullina",
-        "YouTube":"https://youtu.be/oRsXAWb88VM"
-    },
-    {
-        "Name": "АННА КОСЬЯНОВА",
-        "Styles": "Преподаватель групп BABY и KIDS",
-        "Description":"Участник команды ФОРСАЖ</br>Серебряный призер чемпионата России,</br>Чемпион Европы по версии Hip Hop Unite<br><br>Чемпион России и серебрянный призер Европы в составе FORCE CREW<br><br>КМС по хип-хопу. Педагог доп образования!",
-        "ImagePath":"img/teachers/kosyanova.png",
-        "SmallImagePath":"img/teachers/kosyanova2.png",
-        "Instagram":"https://www.instagram.com/anchous1581/",
-        "Vk":"https://vk.com/anchous1581",
-        "YouTube":""
-    },
-    {
         "Name": "ЕКАТЕРИНА ИВОНИНА",
         "Styles": "Преподаватель групп BABY и KIDS",
         "Description":"Победитель и призер разнообразных чемпионатов Екатеринбурга, Свердловской области и России.<br><br>Чемпион России, а также Серебрянный призер чемпионата Европы в составе команды FORCE CREW по версии Hip Hop Unite 2018 г.<br><br>Серебрянный и бронзовый призер чемпионата УрФО и ПФО в категориях Adults и Megacrew в 2019 г.",
@@ -51,23 +31,13 @@
         "YouTube":"https://youtu.be/-5Mb9lqRuI4"
     },
     {
-        "Name": "КРУТИКОВА АЛЕНА",
-        "Styles": "Преподаватель групп BABY",
-        "Description":"Многократный победитель и призёр танцевальных чемпионатов Екатеринбурга, Урала и России по хип-хопу.</br></br>Бронзовый призёр чемпионата УрФО и ПФО в составе команды  Force Crew по версии Hip-Hop Unite в 2019 г.",
-        "ImagePath":"img/teachers/krutikova.png",
-        "SmallImagePath":"img/teachers/krutikova3.png",
-        "Instagram":"https://www.instagram.com/allen_twist/",
-        "Vk":"https://vk.com/id184062194",
-        "YouTube":""
-    },
-    {
-        "Name": "ЛАДА ИСАКОВА",
-        "Styles": "Locking/Workout",
-        "Description":"Участник команды ФОРСАЖ</br>Многократный призер и чемпион России, Европы и Мира по версии Hip Hop Unite.<br><br>Тренер юниорской команды L-CREW<br><br>КМС по хип-хопу.",
-        "ImagePath":"img/teachers/ladon.png",
-        "SmallImagePath":"img/teachers/ladon2.png",
-        "Instagram":"https://www.instagram.com/l_isakova16/",
-        "Vk":"https://vk.com/mega_ladon16",
+        "Name": "АННА КОСЬЯНОВА",
+        "Styles": "Преподаватель групп BABY и KIDS",
+        "Description":"Участник команды ФОРСАЖ</br>Серебряный призер чемпионата России,</br>Чемпион Европы по версии Hip Hop Unite<br><br>Чемпион России и серебрянный призер Европы в составе FORCE CREW<br><br>КМС по хип-хопу. Педагог доп образования!",
+        "ImagePath":"img/teachers/kosyanova.png",
+        "SmallImagePath":"img/teachers/kosyanova2.png",
+        "Instagram":"https://www.instagram.com/anchous1581/",
+        "Vk":"https://vk.com/anchous1581",
         "YouTube":""
     },
     {
@@ -89,6 +59,16 @@
         "Instagram":"https://www.instagram.com/daamn_ara/",
         "Vk":"https://vk.com/ara_uzu",
         "YouTube":"https://youtu.be/EbOXr3PASO0"
+    },
+    {
+        "Name": "ЛИЛИЯ ГАЙФУЛЛИНА",
+        "Styles": "Dancehall, хореография",
+        "Description":"Многократный призер и чемпион России, Европы и Мира по версии Hip Hop Unite.<br><br>Тренер юниорской команды L-CREW<br><br>Осваивала направления: dancehall, vogue, waacking, locking, hip-hop, house, breaking.<br><br>КМС по хип-хопу. Педагог доп образования!",
+        "ImagePath":"img/teachers/lili.png",
+        "SmallImagePath":"img/teachers/lili2.png",
+        "Instagram":"https://www.instagram.com/lili_gaifullina/",
+        "Vk":"https://vk.com/lili_gaifullina",
+        "YouTube":"https://youtu.be/oRsXAWb88VM"
     },
     {
         "Name": "ИРИНА ВАХОНИНА",
