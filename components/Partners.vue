@@ -1,12 +1,12 @@
 <template lang="pug">
     .partners_container
         h2.title.title-partners Партнеры
-        .swiper-container
+        .swiper-container.partners
             .swiper-wrapper
                 a.swiper-slide(v-for="partner in partners" :href="partner.Link ? partner.Link : null" target="_blank")
                     img(:src="getImg(partner.ImagePath)" v-if="partner.ImagePath")
                     .text(v-if="partner.Name" v-html="partner.Name")
-            .swiper-pagination
+            .swiper-pagination.partners
         .company
             | FORSAGE DANCE SCHOOL
             br
@@ -43,7 +43,7 @@
 
         },
         mounted() {
-            const sw = new Swiper('.swiper-container', {
+            const sw = new Swiper('.swiper-container.partners', {
                 effect: 'coverflow',
                 grabCursor: true,
                 centeredSlides: true,
@@ -56,7 +56,7 @@
                     slideShadows: true,
                 },
                 pagination: {
-                    el: '.swiper-pagination',
+                    el: '.swiper-pagination.partners',
                     dynamicBullets: true
                 },
                 loop: true
@@ -75,7 +75,7 @@
         h2.title-partners
             color whiteMain
 
-        .swiper-container
+        .swiper-container.partners
             width 100%
             padding 5px
 
@@ -101,8 +101,14 @@
                     .swiper-slide-shadow-right
                         background-image unset !important
 
-            .swiper-pagination
+            .swiper-pagination.partners
                 bottom 5px !important
+
+                .swiper-pagination-bullet
+                    background white
+                .swiper-pagination-bullet-active
+                    background #e56b2e !important
+
 
     .company
             opacity 0.5
@@ -110,7 +116,7 @@
             font-size 11px
             font-weight bold
             color whiteMain
-            margin-bottom 5px
+            margin 5px
 
             svg
                 bottom -3px
@@ -129,7 +135,9 @@
     @media only screen and (max-width 767px)
         .partners_container
             padding $PaddingContainersMobile
-            .swiper-slide
-                margin 5px 5px
+            .swiper-container.partners
+                .swiper-wrapper
+                    .swiper-slide
+                        margin 5px 5px
 
 </style>

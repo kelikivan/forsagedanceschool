@@ -5,7 +5,7 @@
             a.news-vk_link(:href="vkLink" target="_blank")
                 VkLogo
                 span Посмотреть все события
-            .swiper-container
+            .swiper-container.news
                 .swiper-wrapper
                     a.swiper-slide(v-for="item in news", :href="item.PostLink", target="_blank")
                         img.photo(:src="getImg(item.ImageLink)", :alt="item.Name")
@@ -13,7 +13,7 @@
                             h3.title.head(v-html="item.Name")
                             .date(v-html="item.Date")
                             .description.text_default(v-html="item.Description")
-                .swiper-pagination
+                .swiper-pagination.news
 
 </template>
 
@@ -50,7 +50,7 @@
 
         },
         mounted() {
-            const swiper = new Swiper('.swiper-container', {
+            const swiper = new Swiper('.swiper-container.news', {
                 effect: 'coverflow',
                 grabCursor: true,
                 centeredSlides: true,
@@ -63,7 +63,7 @@
                     slideShadows: true,
                 },
                 pagination: {
-                    el: '.swiper-pagination',
+                    el: '.swiper-pagination.news',
                     dynamicBullets: true
                 },
                 loop: true
@@ -118,7 +118,7 @@
             line-height normal
             letter-spacing normal
 
-    .swiper-container
+    .swiper-container.news
         width 100%
         padding 5px
 
@@ -157,8 +157,11 @@
                         margin-bottom 20px
                         opacity 0.5
 
-        .swiper-pagination
+        .swiper-pagination.news
             bottom 0 !important
+
+            .swiper-pagination-bullet-active
+                background #e56b2e !important
 
     @media only screen and (max-width 767px)
         .news_inner-container
