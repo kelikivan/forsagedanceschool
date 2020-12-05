@@ -56,7 +56,8 @@
                     slideShadows: true,
                 },
                 pagination: {
-                    el: '.swiper-pagination'
+                    el: '.swiper-pagination',
+                    dynamicBullets: true
                 },
                 loop: true
             });
@@ -128,12 +129,7 @@
     @media only screen and (max-width 767px)
         .partners_container
             padding $PaddingContainersMobile
-            //.swiper-slide
-            //    display flex
-            //    align-items center
-            //    justify-content center
-            //    margin 5px 5px
-            //    img
-            //        width 60px
+            .swiper-slide
+                margin 5px 5px
 
 </style>
