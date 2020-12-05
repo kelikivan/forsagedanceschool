@@ -5,29 +5,30 @@
             a.news-vk_link(:href="vkLink" target="_blank")
                 VkLogo
                 span Посмотреть все события
-            .news_list
-                a.news_item(v-for="item in news", :href="item.PostLink", target="_blank")
-                    img.photo(:src="getImg(item.ImageLink)", :alt="item.Name")
-                    .text
-                        h3.title.head(v-html="item.Name")
-                        .date(v-html="item.Date")
-                        .description.text_default(v-html="item.Description")
-
-
+            .swiper-container
+                .swiper-wrapper
+                    .swiper-slide(v-for="item in news", :href="item.PostLink", target="_blank")
+                        img.photo(:src="getImg(item.ImageLink)", :alt="item.Name")
+                        .text
+                            h3.title.head(v-html="item.Name")
+                            .date(v-html="item.Date")
+                            .description.text_default(v-html="item.Description")
+                .swiper-pagination
 
 </template>
 
 <script>
+    import Swiper from 'swiper/bundle';
+    import 'swiper/swiper-bundle.min.css'
     import Data from '~/assets/staticData/news.json'
     import DataContacts from '~/assets/staticData/contacts.json'
     import VkLogo from '~/assets/img/social/vk-logo.svg'
-
 
     export default {
         data() {
             return {
                 news: Data.News,
-                vkLink: DataContacts.Contacts.Vk,
+                vkLink: DataContacts.Contacts.Vk
             }
         },
         components: {
@@ -54,7 +55,24 @@
 
         },
         mounted() {
-
+            const swiper = new Swiper('.swiper-container', {
+                effect: 'coverflow',
+                grabCursor: true,
+                centeredSlides: true,
+                slidesPerView: 'auto',
+                coverflowEffect: {
+                    rotate: 20,
+                    stretch: 0,
+                    depth: 200,
+                    modifier: 1,
+                    slideShadows: true,
+                },
+                pagination: {
+                    el: '.swiper-pagination',
+                    //dynamicBullets: true,
+                },
+                loop: true
+            });
         },
     }
 
@@ -104,44 +122,52 @@
             font-stretch normal
             line-height normal
             letter-spacing normal
-    .news_list
-        display flex
-        justify-content center
-        flex-wrap wrap
 
-        .news_item
-            background grayBackground
-            margin 15px
-            height 390px
-            width 280px
-            cursor pointer
+    .swiper-container
+        width 100%
+        padding 5px
 
-            &:hover
-                box-shadow 0 1px 4px 0 rgba(0, 0, 0, 0.4);
+        .swiper-wrapper
+        //    display flex
+        //    flex-direction row
 
-            .photo
-                min-height 150px
-                max-height 150px
-                min-width 100%
+            .swiper-slide
+                position relative
+                max-width 280px
+                background grayBackground
+                margin 15px
+                height 390px
+                width 280px
+                cursor pointer
 
-            .text
-                padding 24px
+                &:hover
+                    box-shadow 0 1px 4px 0 rgba(0, 0, 0, 0.4);
 
-                .head
-                    margin-bottom 7px
+                .photo
+                    min-height 150px
+                    max-height 150px
+                    min-width 100%
 
-                .date
-                    font-family $LucidaGrandeFont
-                    font-size 13px
-                    font-weight bold
-                    color #000
-                    margin-bottom 20px
-                    opacity 0.5
+                .text
+                    padding 24px
+
+                    .head
+                        margin-bottom 7px
+
+                    .date
+                        font-family $LucidaGrandeFont
+                        font-size 13px
+                        font-weight bold
+                        color #000
+                        margin-bottom 20px
+                        opacity 0.5
+
+        .swiper-pagination
+            bottom 0 !important
 
     @media only screen and (max-width 767px)
         .news_inner-container
             width $ContainersWidthMobile
             padding $PaddingContainersMobile
-
 
 </style>

@@ -118,7 +118,7 @@
                     fill orangeMain
 
         h2.title-popup
-            color #000
+            color #000000
 
 
     @media only screen and (max-width 767px)
