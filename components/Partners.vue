@@ -56,9 +56,7 @@
                     slideShadows: true,
                 },
                 pagination: {
-                    el: '.swiper-pagination',
-                    dynamicBullets: true,
-                    uniqueNavElements: true
+                    el: '.swiper-pagination'
                 },
                 loop: true
             });

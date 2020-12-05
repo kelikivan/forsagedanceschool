@@ -44,6 +44,9 @@
                 return url
             },
         },
+        computed: {
+
+        },
         created() {
 
         },
@@ -61,8 +64,7 @@
                     slideShadows: true,
                 },
                 pagination: {
-                    el: '.swiper-pagination',
-                    dynamicBullets: true,
+                    el: '.swiper-pagination'
                 },
                 loop: true
             });
