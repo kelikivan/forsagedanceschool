@@ -1,26 +1,25 @@
 <template lang="pug">
     .partners_container
         h2.title.title-partners Партнеры
-        .partners_list
-            a.partners_item(v-for="partner in partners" :href="partner.Link ? partner.Link : null" target="_blank")
-                img(:src="getImg(partner.ImagePath)" v-if="partner.ImagePath")
-                .text(v-if="partner.Name" v-html="partner.Name")
+        .swiper-container
+            .swiper-wrapper
+                a.swiper-slide(v-for="partner in partners" :href="partner.Link ? partner.Link : null" target="_blank")
+                    img(:src="getImg(partner.ImagePath)" v-if="partner.ImagePath")
+                    .text(v-if="partner.Name" v-html="partner.Name")
+            .swiper-pagination
         .company
             | FORSAGE DANCE SCHOOL
             br
             | все права защищены
-        <!--.company-->
-            <!--span Разработка сайта-->
-            <!--a(href="https://www.instagram.com/nikitapotapov93/" target="_blank")-->
-                <!--span potapovnikita93-->
-                <!--InstaLogo-->
 
 </template>
 
 <script>
+    import Swiper from 'swiper/bundle';
+    import 'swiper/swiper-bundle.min.css'
+
     import InstaLogo from '~/assets/img/social/instagram-logo.svg'
     import Data from '~/assets/staticData/partners.json'
-
 
     export default {
         data() {
@@ -44,7 +43,25 @@
 
         },
         mounted() {
-
+            const sw = new Swiper('.swiper-container', {
+                effect: 'coverflow',
+                grabCursor: true,
+                centeredSlides: true,
+                slidesPerView: 'auto',
+                coverflowEffect: {
+                    rotate: 20,
+                    stretch: 0,
+                    depth: 200,
+                    modifier: 1,
+                    slideShadows: true,
+                },
+                pagination: {
+                    el: '.swiper-pagination',
+                    dynamicBullets: true,
+                    uniqueNavElements: true
+                },
+                loop: true
+            });
         },
     }
 
@@ -59,17 +76,34 @@
         h2.title-partners
             color whiteMain
 
-        .partners
-            &_list
-                display flex
-                justify-content center
-                flex-wrap wrap
-                margin 10px
-            &_item
-                margin 20px
-                .text
-                    color whiteMain
+        .swiper-container
+            width 100%
+            padding 5px
 
+            .swiper-wrapper
+                a
+                    display block
+
+                .swiper-slide
+                    display flex
+                    justify-content center
+                    align-items center
+                    background unset !important
+                    margin 15px
+                    height unset !important
+                    width 280px !important
+                    border none
+
+                    .text
+                        color whiteMain
+
+                    .swiper-slide-shadow-left
+                        background-image unset !important
+                    .swiper-slide-shadow-right
+                        background-image unset !important
+
+            .swiper-pagination
+                bottom 5px !important
 
     .company
             opacity 0.5
@@ -96,7 +130,12 @@
     @media only screen and (max-width 767px)
         .partners_container
             padding $PaddingContainersMobile
-            .partners_item
-                margin 5px 20px
+            //.swiper-slide
+            //    display flex
+            //    align-items center
+            //    justify-content center
+            //    margin 5px 5px
+            //    img
+            //        width 60px
 
 </style>

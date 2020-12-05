@@ -7,7 +7,7 @@
                 span Посмотреть все события
             .swiper-container
                 .swiper-wrapper
-                    .swiper-slide(v-for="item in news", :href="item.PostLink", target="_blank")
+                    a.swiper-slide(v-for="item in news", :href="item.PostLink", target="_blank")
                         img.photo(:src="getImg(item.ImageLink)", :alt="item.Name")
                         .text
                             h3.title.head(v-html="item.Name")
@@ -20,6 +20,7 @@
 <script>
     import Swiper from 'swiper/bundle';
     import 'swiper/swiper-bundle.min.css'
+
     import Data from '~/assets/staticData/news.json'
     import DataContacts from '~/assets/staticData/contacts.json'
     import VkLogo from '~/assets/img/social/vk-logo.svg'
@@ -35,9 +36,6 @@
             VkLogo
         },
         methods: {
-            selectStyle(index) {
-                this.activeStyle = index
-            },
             getImg(url) {
                 if (url.indexOf('http') === -1) {
                     const imageUrl = require('~/assets/' + `${url}`)
@@ -45,11 +43,6 @@
                 }
                 return url
             },
-        },
-        computed: {
-            videoUrl() {
-                return this.styles[this.activeStyle].YouTubeLink
-            }
         },
         created() {
 
@@ -69,7 +62,7 @@
                 },
                 pagination: {
                     el: '.swiper-pagination',
-                    //dynamicBullets: true,
+                    dynamicBullets: true,
                 },
                 loop: true
             });
@@ -128,8 +121,8 @@
         padding 5px
 
         .swiper-wrapper
-        //    display flex
-        //    flex-direction row
+            a
+                display block
 
             .swiper-slide
                 position relative
