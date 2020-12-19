@@ -2,7 +2,7 @@
     .description_container
         .description_inner-container
             .description_photo
-                img(src="~assets/img/photo-winners.png" alt="Преподаватели - чемпионы Росии и Мира")
+                img(src="~/assets/img/photo-winners.png" alt="Преподаватели - чемпионы Росии и Мира")
                 h3.title.photo_text
                     .photo_icon
                         Cup
@@ -11,15 +11,12 @@
                     | ЧЕМПИОНЫ <span>РОССИИ</span> И <span>МИРА</span>
             .description
                 h2.title.description_title Современная школа танцев в Екатеринбурге
-                <!--.description_text.text_default(v-html='description')-->
                 .description_advantages
-                    .item(v-for='item, index in advantages')
+                    .item(v-for='item in advantages')
                         .point
                         .text.text_default {{item}}
                 .description_button
                     Button(name="Посмотреть цены" type="small" :clickAction="() => {$emit('open', 'prices')}")
-
-
 
 </template>
 
@@ -28,11 +25,10 @@
     import Button from '~/components/Button.vue'
     import Cup from '~/assets/img/cup.svg'
 
-
     export default {
         data() {
             return {
-                description: Data.Text,
+                description: Data.Text
             }
         },
         props: ['open'],

@@ -1,5 +1,7 @@
 <template lang="pug">
     .container
+        let-it-snow(v-bind="snowConf" :show="show")
+
         section#header
             Header(@open="openPopup")
         section#description
@@ -52,6 +54,18 @@
           return {
               isOpenPopup: false,
               component: '',
+              snowConf: {
+                  windPower : 1,
+                  speed : 3,
+                  count : 12,
+                  size : 10,
+                  opacity : 1,
+                  images: ['https://raw.githubusercontent.com/bob-chen/let_it_snow/master/demo/snow.png',
+                      //'https://raw.githubusercontent.com/bob-chen/let_it_snow/master/demo/sock.png',
+                      //'https://raw.githubusercontent.com/bob-chen/let_it_snow/master/demo/tree.png'
+                  ]
+              },
+              show: false
           }
         },
         methods: {
@@ -87,6 +101,7 @@
             Projects
         },
         mounted() {
+            this.show = true;
             const headerHeight = document.getElementsByClassName('header_container')[0].offsetHeight
             const topButton = document.getElementsByClassName('button_top')[0]
             window.addEventListener('scroll', () => {

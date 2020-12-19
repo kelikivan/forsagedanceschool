@@ -17,9 +17,6 @@
                                 span {{photo.comments.count || 0}}
                     img.photo_img(:src="photo.images.standard_resolution.url", :alt="photo.user.full_name")
 
-
-
-
 </template>
 
 <script>
@@ -27,7 +24,6 @@
     import jsonp from 'jsonp'
 
     import InstaLogo from '~/assets/img/social/instagram-logo.svg'
-
     import Data from '~/assets/staticData/contacts.json'
 
     export default {

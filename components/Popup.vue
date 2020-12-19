@@ -12,8 +12,6 @@
                 .close_btn(@click="$emit('close')")
                     CloseLogo
 
-
-
 </template>
 
 <script>
@@ -23,7 +21,6 @@
     import CloseLogo from '~/assets/img/close.svg'
     import Feedback from '~/components/Feedback.vue'
     import Prices from '~/components/Prices.vue'
-
 
     export default {
         data() {

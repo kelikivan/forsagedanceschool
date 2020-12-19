@@ -22,7 +22,7 @@
                 .menu_item(@click="scrollToSection('styles')") НАПРАВЛЕНИЯ
                 .menu_item(@click="scrollToSection('schedule')") РАСПИСАНИЕ
             .menu_icon-container
-                img.menu_icon(src="~/assets/img/logotip.png")
+                img.menu_icon(src="~/assets/img/logo.png")
             nav.menu_right
                 .menu_item(@click="scrollToSection('news')") НОВОСТИ
                 .menu_item(@click="$emit('open', 'prices')") ЦЕНЫ
@@ -46,16 +46,16 @@
 
 <script>
     import zenscroll from 'zenscroll'
+
     import Button from '~/components/Button.vue'
     import Location from '~/assets/img/location.svg'
     import Arrow from '~/assets/img/arrow.svg'
-
     import Data from '~/assets/staticData/contacts.json'
 
     export default {
         data() {
             return {
-                contacts: Data.Contacts,
+                contacts: Data.Contacts
             }
         },
         components: {

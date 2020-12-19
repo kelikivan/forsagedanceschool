@@ -31,6 +31,7 @@ module.exports = {
         '~assets/styles/global.styl',
     ],
     plugins: [
+        { src: '~/plugins/snowfall.js', ssr: false }
     ],
     /*
     ** Build configuration

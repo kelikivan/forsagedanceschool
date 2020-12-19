@@ -21,14 +21,6 @@
                     frameborder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen)
-                    <!--div.my-swiper(v-swiper:mySwiper="swiperOption")-->
-                        <!--.swiper-wrapper-->
-                            <!--.swiper-slide(v-for="video in videoUrls")-->
-                                <!---->
-                        <!--.swiper-pagination-->
-                        <!--.swiper-button-prev(slot="button-prev")-->
-                        <!--.swiper-button-next(slot="button-next")-->
-
 
 </template>
 
@@ -41,19 +33,6 @@
             return {
                 teams: Data.Crews,
                 activeCrew: 0,
-                // swiperOption: {
-                //     slidesPerView: 1,
-                //     spaceBetween: 30,
-                //     loop: true,
-                //     pagination: {
-                //         el: '.swiper-pagination',
-                //         clickable: true
-                //     },
-                //     navigation: {
-                //         nextEl: '.swiper-button-next',
-                //         prevEl: '.swiper-button-prev'
-                //     },
-                // }
             }
         },
         components: {
@@ -84,28 +63,13 @@
 
         },
         mounted() {
-        
+
         },
     }
 
 </script>
 
 <style lang="stylus">
-    /*.my-swiper
-        height: 300px;
-        width: 100%;
-
-        .swiper-slide
-            text-align: center;
-            font-size: 38px;
-            font-weight: 700;
-            background-color: #eee;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-
-        .swiper-pagination
-            position inherit */
 
     .teams_inner-container
         background-color #000

@@ -18,8 +18,6 @@
             .message(v-if="emailStatus") {{ emailStatus }}
             .message.err(v-if="emailStatusErr") {{ emailStatusErr }}
 
-
-
 </template>
 
 <script>
@@ -27,7 +25,6 @@
     import * as emailjs from 'emailjs-com/dist/email'
     import Gift from '~/assets/img/gift.svg'
     import Contacts from '~/assets/staticData/contacts.json'
-
 
     export default {
         data() {

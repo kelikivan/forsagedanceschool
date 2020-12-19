@@ -20,6 +20,7 @@
 <script>
     import Swiper from 'swiper/bundle'
     import 'swiper/swiper-bundle.min.css'
+
     import Data from '~/assets/staticData/news.json'
     import DataContacts from '~/assets/staticData/contacts.json'
     import VkLogo from '~/assets/img/social/vk-logo.svg'
