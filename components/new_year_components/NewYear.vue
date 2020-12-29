@@ -20,7 +20,7 @@ import Button from '@/components/commons/Button.vue'
 export default {
     data() {
         return {
-            videoUrl: 'https://www.youtube.com/embed/U3glta2asPE?rel=0'
+            videoUrl: 'https://www.youtube.com/embed/eJyFn83p_m4?rel=0'
         }
     },
     props: ['open'],
