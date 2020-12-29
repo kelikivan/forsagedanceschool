@@ -21,10 +21,10 @@
 </template>
 
 <script>
-    import Button from '~/components/Button.vue'
+    import Button from '@/components/commons/Button.vue'
     import * as emailjs from 'emailjs-com/dist/email'
-    import Gift from '~/assets/img/gift.svg'
-    import Contacts from '~/assets/staticData/contacts.json'
+    import Gift from 'assets/img/gift.svg'
+    import Contacts from 'assets/staticData/contacts.json'
 
     export default {
         data() {

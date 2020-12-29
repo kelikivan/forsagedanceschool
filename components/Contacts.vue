@@ -63,7 +63,7 @@
     import instaLogo from '~/assets/img/social/instagram.svg'
 
     import Data from '~/assets/staticData/contacts.json'
-    import Button from '~/components/Button.vue'
+    import Button from '@/components/commons/Button.vue'
 
     export default {
         data() {

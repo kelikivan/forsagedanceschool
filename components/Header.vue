@@ -47,7 +47,7 @@
 <script>
     import zenscroll from 'zenscroll'
 
-    import Button from '~/components/Button.vue'
+    import Button from '@/components/commons/Button.vue'
     import Location from '~/assets/img/location.svg'
     import Arrow from '~/assets/img/arrow.svg'
     import Data from '~/assets/staticData/contacts.json'
@@ -92,7 +92,7 @@
         display flex
         justify-content center
         flex-direction column
-        background-image url('~assets/img/header-background.png')
+        background-image url('~assets/img/backgrounds/header.png')
         background-color #000
         background-position 50%
         background-repeat no-repeat
@@ -280,7 +280,7 @@
 
     @media only screen and (max-width 1500px)
         .header_container
-            background-image url('~assets/img/header-background-min.png')
+            background-image url('~assets/img/backgrounds/header-min.png')
 
     @media only screen and (max-width 1200px)
         .menu
@@ -323,6 +323,5 @@
             button
                 position relative
                 top -30px
-
 
 </style>

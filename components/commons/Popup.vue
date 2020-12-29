@@ -7,20 +7,22 @@
                     Prices
                 div(v-if="component === 'feedback'")
                     Feedback
+                div(v-if="component === 'new-year'")
+                    ContestRegistration
 
                 .popup_border-top
                 .close_btn(@click="$emit('close')")
                     CloseLogo
-
 </template>
 
 <script>
     import vClickOutside from 'v-click-outside'
 
-    import Button from '~/components/Button.vue'
-    import CloseLogo from '~/assets/img/close.svg'
-    import Feedback from '~/components/Feedback.vue'
-    import Prices from '~/components/Prices.vue'
+    import Button from '@/components/commons/Button.vue'
+    import CloseLogo from 'assets/img/close.svg'
+    import Feedback from '@/components/commons/Feedback.vue'
+    import Prices from '@/components/commons/Prices.vue'
+    import ContestRegistration from '@/components/new_year_components/ContestRegistration.vue'
 
     export default {
         data() {
@@ -36,7 +38,8 @@
             Button,
             CloseLogo,
             Feedback,
-            Prices
+            Prices,
+            ContestRegistration
         },
         methods: {
             onClickOutside (event) {

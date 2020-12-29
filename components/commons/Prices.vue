@@ -40,8 +40,8 @@
 </template>
 
 <script>
-    import Prices from '~/assets/staticData/prices.json'
-    import Arrow from '~/assets/img/arrow.svg'
+    import Prices from 'assets/staticData/prices.json'
+    import Arrow from 'assets/img/arrow.svg'
 
     export default {
         data() {

@@ -22,7 +22,7 @@
 
 <script>
     import Data from '~/assets/staticData/title.json'
-    import Button from '~/components/Button.vue'
+    import Button from '@/components/commons/Button.vue'
     import Cup from '~/assets/img/cup.svg'
 
     export default {

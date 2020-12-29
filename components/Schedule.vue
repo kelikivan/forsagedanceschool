@@ -38,7 +38,7 @@
 </template>
 
 <script>
-    import Button from '~/components/Button.vue'
+    import Button from '@/components/commons/Button.vue'
     import Shedule from '~/assets/staticData/schedule.json'
 
     const scheduleTimes = [
@@ -355,9 +355,6 @@
                     .visible
                         display block
 
-
-
-
     @media only screen and (max-width 767px)
         .schedule_inner-container
             width $ContainersWidthMobile
@@ -411,9 +408,5 @@
                             min-width 200px
                     .day.empty
                         min-width 60px
-
-
-
-
 
 </style>

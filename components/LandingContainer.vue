@@ -20,6 +20,8 @@
             Projects
         section#instagram
             Instagram
+        section#newyear
+            NewYear(@open="openPopup")
         section#contacts
             Contacts(@open="openPopup")
         section#partners
@@ -43,9 +45,10 @@
     import Partners from '~/components/Partners.vue'
     import Contacts from '~/components/Contacts.vue'
     import Schedule from '~/components/Schedule.vue'
-    import Popup from '~/components/Popup.vue'
+    import Popup from '@/components/commons/Popup.vue'
     import Teams from '~/components/Teams.vue'
     import Projects from '~/components/Projects.vue'
+    import NewYear from '@/components/new_year_components/NewYear.vue'
 
     import Top from '~/assets/img/arrow.svg'
 
@@ -98,7 +101,8 @@
             Popup,
             Top,
             Teams,
-            Projects
+            Projects,
+            NewYear
         },
         mounted() {
             this.show = true;
