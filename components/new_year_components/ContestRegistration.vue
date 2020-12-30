@@ -128,7 +128,7 @@ export default {
     },
     mounted() {
         this.statusSuccess = false;
-        this.activePhraseID = this.getRandomInt(0, 8);
+        this.activePhraseID = this.getRandomInt(0, 7);
     },
     destroyed() {
         this.statusSuccess = false;
