@@ -77,7 +77,7 @@ export default {
 
             const data = {
                 service_id: 'forsage_service',
-                template_id: 'template_5dGSiEff',
+                template_id: 'template_5nppjkg',
                 user_id: 'user_JaUNu8x9vuWUpoOfjGNgp',
                 template_params: {
                     'name': this.name,
