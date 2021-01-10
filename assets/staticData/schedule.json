@@ -28,10 +28,17 @@
                             "IsGeneral":true
                         },
                         {
-                            "Name":"JUNIORS PRO</br>(10-16 лет)",
-                            "Teacher":"Гайфуллина Лилия",
-                            "LessonStart":"19:00",
-                            "LessonEnd":"20:30",
+                            "Name":"KIDS I</br>(7-9 лет)",
+                            "Teacher":"Келик Иван",
+                            "LessonStart":"18:30",
+                            "LessonEnd":"19:30",
+                            "IsGeneral":true
+                        },
+                        {
+                            "Name":"SENIORS</br>(30+)",
+                            "Teacher":"Вахонина Ирина",
+                            "LessonStart":"19:30",
+                            "LessonEnd":"21:00",
                             "IsGeneral":true
                         }
                     ]
@@ -40,17 +47,24 @@
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
                         {
-                            "Name":"JUNIORS III</br>(10-16 лет)",
-                            "Teacher":"Келик Иван/Швецов Никита",
-                            "LessonStart":"17:30",
-                            "LessonEnd":"19:00",
+                            "Name":"JUNIORS III (beg)</br>(10-16 лет)",
+                            "Teacher":"Идёт набор!</br>Микрюков Коля",
+                            "LessonStart":"18:00",
+                            "LessonEnd":"19:30",
                             "IsGeneral":true
                         },
                         {
-                            "Name":"ADULTS(17+)",
-                            "Teacher":"Гайфуллина/Сулейманова/Швецов",
-                            "LessonStart":"19:00",
+                            "Name":"KIDS PRO</br>(8-10 лет)",
+                            "Teacher":"Келик Иван",
+                            "LessonStart":"19:30",
                             "LessonEnd":"20:30",
+                            "IsGeneral":true
+                        },
+                        {
+                            "Name":"AnukaNaka</br>CREW",
+                            "Teacher":"Келик Иван",
+                            "LessonStart":"20:30",
+                            "LessonEnd":"22:00",
                             "IsGeneral":true
                         }
                     ]
@@ -74,16 +88,16 @@
                         },
                         {
                             "Name":"JUNIORS I</br>(10-16 лет)",
-                            "Teacher":"Бухаров Данил/Сысоев Антон",
+                            "Teacher":"Бухаров Данил",
                             "LessonStart":"17:00",
                             "LessonEnd":"18:30",
                             "IsGeneral":true
                         },
                         {
-                            "Name":"JUNIORS PRO</br>(10-16 лет)",
-                            "Teacher":"Сысоев Антон",
-                            "LessonStart":"19:00",
-                            "LessonEnd":"20:30",
+                            "Name":"KIDS I</br>(7-9 лет)",
+                            "Teacher":"Келик Иван",
+                            "LessonStart":"18:30",
+                            "LessonEnd":"19:30",
                             "IsGeneral":true
                         }
                     ]
@@ -92,17 +106,24 @@
                     "WeekDay":"ЧЕТВЕРГ",
                     "Groups":[
                         {
-                            "Name":"JUNIORS III</br>(10-16 лет)",
-                            "Teacher":"Тимирбаева Диана",
-                            "LessonStart":"17:30",
-                            "LessonEnd":"19:00",
+                            "Name":"JUNIORS III (beg)</br>(10-16 лет)",
+                            "Teacher":"Идёт набор!</br>Микрюков Коля",
+                            "LessonStart":"18:00",
+                            "LessonEnd":"19:30",
                             "IsGeneral":true
                         },
                         {
-                            "Name":"ADULTS(17+)",
-                            "Teacher":"Тимирбаева Диана",
-                            "LessonStart":"19:00",
+                            "Name":"KIDS PRO</br>(8-10 лет)",
+                            "Teacher":"Келик Иван",
+                            "LessonStart":"19:30",
                             "LessonEnd":"20:30",
+                            "IsGeneral":true
+                        },
+                        {
+                            "Name":"AnukaNaka</br>CREW",
+                            "Teacher":"Келик Иван/Бухаров Данил",
+                            "LessonStart":"20:30",
+                            "LessonEnd":"22:00",
                             "IsGeneral":true
                         }
                     ]
@@ -126,7 +147,7 @@
                         },
                         {
                             "Name":"JUNIORS I</br>(10-16 лет)",
-                            "Teacher":"Бухаров Данил/Швецов Никита",
+                            "Teacher":"Швецов Никита",
                             "LessonStart":"17:00",
                             "LessonEnd":"18:30",
                             "IsGeneral":true
@@ -151,17 +172,24 @@
                     "WeekDay":"СУББОТА",
                     "Groups":[
                         {
-                            "Name":"FREESTYLE</br>(10+)",
-                            "Teacher":"",
+                            "Name":"KIDS PRO</br>(8-10 лет)",
+                            "Teacher":"Келик Иван",
+                            "LessonStart":"12:00",
+                            "LessonEnd":"13:30",
+                            "IsGeneral":true
+                        },
+                        {
+                            "Name":"JUNIORS III (beg)</br>(10-16 лет)",
+                            "Teacher":"Идёт набор!</br>Микрюков/Гайфуллина",
                             "LessonStart":"16:00",
                             "LessonEnd":"17:30",
                             "IsGeneral":true
                         },
                         {
                             "Name":"ADULTS(17+)",
-                            "Teacher":"Келик/Алёшина",
-                            "LessonStart":"19:00",
-                            "LessonEnd":"20:30",
+                            "Teacher":"Идёт набор!</br>Сулейманова Арина",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"19:00",
                             "IsGeneral":true
                         }
                     ]
@@ -182,23 +210,23 @@
                     "Groups":[
                         {
                             "Name":"JUNIORS IV</br>(10-16 лет)",
-                            "Teacher":"Открыт набор</br>Алёшина Катя",
+                            "Teacher":"Алёшина Катя",
                             "LessonStart":"10:30",
                             "LessonEnd":"12:00",
                             "IsGeneral":true
                         },
                         {
-                            "Name":"KIDS I</br>(7-9 лет)",
-                            "Teacher":"Келик Иван",
-                            "LessonStart":"18:30",
-                            "LessonEnd":"19:30",
+                            "Name":"BABY II</br>(5-6 лет)",
+                            "Teacher":"Врублевская Яна",
+                            "LessonStart":"18:00",
+                            "LessonEnd":"19:00",
                             "IsGeneral":true
                         },
                         {
-                            "Name":"SENIORS</br>(30+)",
-                            "Teacher":"Вахонина Ирина",
-                            "LessonStart":"19:30",
-                            "LessonEnd":"21:00",
+                            "Name":"JUNIORS PRO</br>(10-16 лет)",
+                            "Teacher":"Ворошилова/Кардашина",
+                            "LessonStart":"19:00",
+                            "LessonEnd":"20:30",
                             "IsGeneral":true
                         }
                     ]
@@ -207,13 +235,6 @@
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
                         {
-                            "Name":"BABY I</br>(5-6 лет)",
-                            "Teacher":"Ивонина Катя",
-                            "LessonStart":"17:30",
-                            "LessonEnd":"18:30",
-                            "IsGeneral":true
-                        },
-                        {
                             "Name":"KIDS II</br>(7-9 лет)",
                             "Teacher":"Ивонина Катя",
                             "LessonStart":"18:30",
@@ -221,10 +242,10 @@
                             "IsGeneral":true
                         },
                         {
-                            "Name":"AnukaNaka</br>CREW",
-                            "Teacher":"Келик Иван",
-                            "LessonStart":"20:30",
-                            "LessonEnd":"22:00",
+                            "Name":"ADULTS(17+)",
+                            "Teacher":"Идёт набор!</br>Сулейманова Арина",
+                            "LessonStart":"19:30",
+                            "LessonEnd":"21:00",
                             "IsGeneral":true
                         }
                     ]
@@ -234,16 +255,23 @@
                     "Groups":[
                         {
                             "Name":"JUNIORS IV</br>(10-16 лет)",
-                            "Teacher":"Открыт набор</br>Алёшина Катя",
+                            "Teacher":"Алёшина Катя",
                             "LessonStart":"10:30",
                             "LessonEnd":"12:00",
                             "IsGeneral":true
                         },
                         {
-                            "Name":"KIDS I</br>(7-9 лет)",
-                            "Teacher":"Келик Иван",
-                            "LessonStart":"18:30",
-                            "LessonEnd":"19:30",
+                            "Name":"BABY II</br>(5-6 лет)",
+                            "Teacher":"Врублевская Яна",
+                            "LessonStart":"18:00",
+                            "LessonEnd":"19:00",
+                            "IsGeneral":true
+                        },
+                        {
+                            "Name":"JUNIORS PRO</br>(10-17 лет)",
+                            "Teacher":"Сысоев Антон",
+                            "LessonStart":"19:00",
+                            "LessonEnd":"20:30",
                             "IsGeneral":true
                         }
                     ]
@@ -251,13 +279,6 @@
                 {
                     "WeekDay":"ЧЕТВЕРГ",
                     "Groups":[
-                        {
-                            "Name":"BABY I</br>(5-6 лет)",
-                            "Teacher":"Ивонина Катя",
-                            "LessonStart":"17:30",
-                            "LessonEnd":"18:30",
-                            "IsGeneral":true
-                        },
                         {
                             "Name":"KIDS II</br>(7-9 лет)",
                             "Teacher":"Ивонина Катя",
@@ -279,23 +300,23 @@
                     "Groups":[
                         {
                             "Name":"JUNIORS IV</br>(10-16 лет)",
-                            "Teacher":"Открыт набор</br>Алёшина Катя",
+                            "Teacher":"Алёшина Катя",
                             "LessonStart":"10:30",
                             "LessonEnd":"12:00",
                             "IsGeneral":true
                         },
                         {
-                            "Name":"BABY I</br>(5-6 лет)",
-                            "Teacher":"Ивонина Катя",
-                            "LessonStart":"17:30",
-                            "LessonEnd":"18:30",
+                            "Name":"BABY II</br>(5-6 лет)",
+                            "Teacher":"Врублевская Яна",
+                            "LessonStart":"18:00",
+                            "LessonEnd":"19:00",
                             "IsGeneral":true
                         },
                         {
                             "Name":"KIDS II</br>(7-9 лет)",
                             "Teacher":"Ивонина Катя",
-                            "LessonStart":"18:30",
-                            "LessonEnd":"19:30",
+                            "LessonStart":"19:00",
+                            "LessonEnd":"20:00",
                             "IsGeneral":true
                         }
                     ]
@@ -304,9 +325,16 @@
                     "WeekDay":"СУББОТА",
                     "Groups":[
                         {
+                            "Name":"FREESTYLE</br>(10+)",
+                            "Teacher":"Келик Иван",
+                            "LessonStart":"15:00",
+                            "LessonEnd":"17:00",
+                            "IsGeneral":true
+                        },
+                        {
                             "Name":"AnukaNaka</br>CREW",
                             "Teacher":"Келик Иван",
-                            "LessonStart":"17:30",
+                            "LessonStart":"17:00",
                             "LessonEnd":"19:00",
                             "IsGeneral":true
                         }
@@ -329,16 +357,9 @@
                         {
                             "Name":"АРЕНДА",
                             "Teacher":"ЗАНЯТО",
-                            "LessonStart":"17:00",
-                            "LessonEnd":"18:00",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"18:30",
                             "IsGeneral":false
-                        },
-                        {
-                            "Name":"BABY II</br>(5-6 лет)",
-                            "Teacher":"Врублевская Яна",
-                            "LessonStart":"18:00",
-                            "LessonEnd":"19:00",
-                            "IsGeneral":true
                         }
                     ]
                 },
@@ -346,10 +367,10 @@
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
                         {
-                            "Name":"KIDS PRO</br>(8-9 лет)",
-                            "Teacher":"Келик Иван",
-                            "LessonStart":"19:00",
-                            "LessonEnd":"20:00",
+                            "Name":"BABY I</br>(5-6 лет)",
+                            "Teacher":"Идёт набор!</br>Ивонина Катя",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"18:30",
                             "IsGeneral":true
                         }
                     ]
@@ -360,16 +381,9 @@
                         {
                             "Name":"АРЕНДА",
                             "Teacher":"ЗАНЯТО",
-                            "LessonStart":"17:00",
-                            "LessonEnd":"18:00",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"18:30",
                             "IsGeneral":false
-                        },
-                        {
-                            "Name":"BABY II</br>(5-6 лет)",
-                            "Teacher":"Врублевская Яна",
-                            "LessonStart":"18:00",
-                            "LessonEnd":"19:00",
-                            "IsGeneral":true
                         }
                     ]
                 },
@@ -377,17 +391,10 @@
                     "WeekDay":"ЧЕТВЕРГ",
                     "Groups":[
                         {
-                            "Name":"BABY II</br>(5-6 лет)",
-                            "Teacher":"Врублевская Яна",
-                            "LessonStart":"18:00",
-                            "LessonEnd":"19:00",
-                            "IsGeneral":true
-                        },
-                        {
-                            "Name":"KIDS PRO</br>(8-9 лет)",
-                            "Teacher":"Келик Иван",
-                            "LessonStart":"19:00",
-                            "LessonEnd":"20:00",
+                            "Name":"BABY I</br>(5-6 лет)",
+                            "Teacher":"Идёт набор!</br>Ивонина Катя",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"18:30",
                             "IsGeneral":true
                         }
                     ]
@@ -398,8 +405,8 @@
                         {
                             "Name":"АРЕНДА",
                             "Teacher":"ЗАНЯТО",
-                            "LessonStart":"17:00",
-                            "LessonEnd":"18:00",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"18:30",
                             "IsGeneral":false
                         }
                     ]
@@ -407,13 +414,6 @@
                 {
                     "WeekDay":"СУББОТА",
                     "Groups":[
-                        {
-                            "Name":"KIDS PRO</br>(8-9 лет)",
-                            "Teacher":"Келик Иван",
-                            "LessonStart":"12:00",
-                            "LessonEnd":"13:30",
-                            "IsGeneral":true
-                        }
                     ]
                 },
                 {
