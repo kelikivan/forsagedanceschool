@@ -235,6 +235,13 @@
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
                         {
+                            "Name":"BABY I</br>(5-6 лет)",
+                            "Teacher":"Ивонина Катя",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"18:30",
+                            "IsGeneral":true
+                        },
+                        {
                             "Name":"KIDS II</br>(7-9 лет)",
                             "Teacher":"Ивонина Катя",
                             "LessonStart":"18:30",
@@ -279,6 +286,13 @@
                 {
                     "WeekDay":"ЧЕТВЕРГ",
                     "Groups":[
+                        {
+                            "Name":"BABY I</br>(5-6 лет)",
+                            "Teacher":"Ивонина Катя",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"18:30",
+                            "IsGeneral":true
+                        },
                         {
                             "Name":"KIDS II</br>(7-9 лет)",
                             "Teacher":"Ивонина Катя",
@@ -343,7 +357,6 @@
                 {
                     "WeekDay":"ВОСКРЕСЕНЬЕ",
                     "Groups":[
-
                     ]
                 }
             ]
@@ -366,13 +379,6 @@
                 {
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
-                        {
-                            "Name":"BABY I</br>(5-6 лет)",
-                            "Teacher":"Идёт набор!</br>Ивонина Катя",
-                            "LessonStart":"17:30",
-                            "LessonEnd":"18:30",
-                            "IsGeneral":true
-                        }
                     ]
                 },
                 {
@@ -390,13 +396,6 @@
                 {
                     "WeekDay":"ЧЕТВЕРГ",
                     "Groups":[
-                        {
-                            "Name":"BABY I</br>(5-6 лет)",
-                            "Teacher":"Идёт набор!</br>Ивонина Катя",
-                            "LessonStart":"17:30",
-                            "LessonEnd":"18:30",
-                            "IsGeneral":true
-                        }
                     ]
                 },
                 {
