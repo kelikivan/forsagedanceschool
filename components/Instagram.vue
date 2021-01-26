@@ -40,11 +40,8 @@
                     } else {
                         console.log(res)
                         // оставляем только последние 6 фотографий профиля
-                        this.posts = res.data.splice(0, 6)
-                        // res.data && res.data.forEach(item => {
-                        //     if (item.caption && item.caption.toLowerCase().match(/#forsagedanceschoolweb/gi))
-                        //         this.posts.push(item)
-                        // })
+                        this.posts = res.data.filter((item) => item.media_type === 'IMAGE').splice(0, 6)
+                        //item.caption && item.caption.toLowerCase().match(/#forsagedanceschoolweb/gi)
                     }
                 });
             }

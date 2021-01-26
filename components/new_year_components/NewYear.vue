@@ -10,8 +10,8 @@
                         frameborder="0"
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen)
-            .new_year_button
-                Button(name="РОЗЫГРЫШ" type="small" :clickAction="() => {$emit('open', 'new-year')}")
+            //.new_year_button
+                //Button(name="РОЗЫГРЫШ" type="small" :clickAction="() => {$emit('open', 'new-year')}")
 </template>
 
 <script>
@@ -21,7 +21,6 @@ export default {
     data() {
         return {
             videoUrl: 'https://youtube.com/embed/0DWNYM-zFYM?rel=0'
-                //'https://www.youtube.com/embed/eJyFn83p_m4?rel=0'
         }
     },
     props: ['open'],
@@ -87,11 +86,11 @@ export default {
                 width 100%
                 height 100%
 
-    .new_year_button
-        text-align center
-        button
-            border 1px solid orangeMain
-            margin-top 30px
+    //.new_year_button
+    //    text-align center
+    //    button
+    //        border 1px solid orangeMain
+    //        margin-top 30px
 
 @media only screen and (max-width 1500px)
     .new_year_inner-container
