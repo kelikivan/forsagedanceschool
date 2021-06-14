@@ -73,7 +73,7 @@
             // Ответ:
             // {"access_token":"IGQVJWRzNrZAEJKT2hZAeExkUDRkRnVwUUhjV2FOR0FaUU9Od3ZAhV2w0YUI5NmtDLWtsWGVfZA2U5UFZAuZAEtCNHVtTXhiREszeFRXamwyX2FUSkJPRUVQRnZAnOXZAFSHlmcmdPdmdmd1p3","token_type":"bearer","expires_in":5184000}%
 
-            const TOKEN = 'IGQVJWS01LaWVlOE0xRjFPbDJCR0lCenF3NkZAucDhUTmNSNDd1c3ZAlWERRQXF2VklPaUJTSjdPMWZARd1UzUXFIbExCRHJZAYl9VVlVFVlpFZAU5TX3RhX2NSZA3JXd3Vrb0JQMVk3eHJLdzhaZAEhyQ1NBawZDZD'
+            const TOKEN = 'IGQVJYNTNuLU9FcDMxNm91OXJ0eV9zUlZAlR0tqQmRXVlNxUWt5b2tJQjlVWk5QTll3ZAlJHYVlCRTg3WkJpaVFUOUs1QUF6anlEY2ZA6d2R0MDd1R2YybXNzMzJtMkk1VTNjeXZAuSFE5SmZAMY2x0ci1tdQZDZD'
             const USER_ID = '17841405582621976' // id пользователя
             // new https://graph.instagram.com/${USER_ID}/media?access_token=${TOKEN}
             // old https://api.instagram.com/v1/users/${USER_ID}/media/recent/?access_token=${TOKEN}
