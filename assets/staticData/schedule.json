@@ -191,6 +191,13 @@
                             "LessonStart":"16:30",
                             "LessonEnd":"18:00",
                             "IsGeneral":true
+                        },
+                        {
+                            "Name":"ADULTS</br>(17+)",
+                            "Teacher":"Арина С.",
+                            "LessonStart":"18:00",
+                            "LessonEnd":"19:30",
+                            "IsGeneral":true
                         }
                     ]
                 },
