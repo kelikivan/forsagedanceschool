@@ -7,31 +7,31 @@
         {
           "Age": "5 - 6 лет",
           "SinglePrice": "300 руб.",
-          "MonthPrice": "2200 руб.",
+          "MonthPrice": "2400 руб.",
           "Note": ""
         },
         {
           "Age": "7 - 9 лет",
           "SinglePrice": "300 руб.",
-          "MonthPrice": "2200 руб.",
+          "MonthPrice": "2400 руб.",
           "Note": ""
         },
         {
           "Age": "10 - 16 лет",
           "SinglePrice": "350 руб.",
-          "MonthPrice": "2500 руб.",
+          "MonthPrice": "2700 руб.",
           "Note": ""
         },
         {
           "Age": "от 17 лет",
-          "SinglePrice": "350 руб.",
-          "MonthPrice": "2600 руб.",
+          "SinglePrice": "400 руб.",
+          "MonthPrice": "2800 руб.",
           "Note": ""
         },
         {
           "Age": "от 30 лет",
-          "SinglePrice": "350 руб.",
-          "MonthPrice": "2600 руб.",
+          "SinglePrice": "400 руб.",
+          "MonthPrice": "2800 руб.",
           "Note": ""
         }
       ]
@@ -66,14 +66,14 @@
       "Items": [
         {
           "Age": "от 8 лет",
-          "SinglePrice": "1000 руб.",
-          "MonthPrice": "3200 руб.",
+          "SinglePrice": "1200 руб.",
+          "MonthPrice": "4000 руб.",
           "Note": "1 раза в неделю"
         },
         {
           "Age": "от 8 лет",
-          "SinglePrice": "1000 руб.",
-          "MonthPrice": "6000 руб.",
+          "SinglePrice": "1200 руб.",
+          "MonthPrice": "7500 руб.",
           "Note": "2 раза в неделю"
         }
       ]
