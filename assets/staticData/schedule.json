@@ -377,7 +377,7 @@
                             "Name":"АРЕНДА",
                             "Teacher":"ЗАНЯТО",
                             "LessonStart":"19:00",
-                            "LessonEnd":"20:30",
+                            "LessonEnd":"21:00",
                             "IsGeneral":false
                         }
                     ]
@@ -388,8 +388,8 @@
                         {
                             "Name":"АРЕНДА",
                             "Teacher":"ЗАНЯТО",
-                            "LessonStart":"18:30",
-                            "LessonEnd":"19:30",
+                            "LessonStart":"20:00",
+                            "LessonEnd":"21:00",
                             "IsGeneral":false
                         }
                     ]
@@ -408,7 +408,7 @@
                             "Name":"АРЕНДА",
                             "Teacher":"ЗАНЯТО",
                             "LessonStart":"19:00",
-                            "LessonEnd":"20:00",
+                            "LessonEnd":"21:00",
                             "IsGeneral":false
                         }
                     ]
@@ -427,6 +427,13 @@
                             "LessonStart":"18:00",
                             "LessonEnd":"19:00",
                             "IsGeneral":false
+                        },
+                        {
+                            "Name":"АРЕНДА",
+                            "Teacher":"ЗАНЯТО",
+                            "LessonStart":"19:00",
+                            "LessonEnd":"21:00",
+                            "IsGeneral":false
                         }
                     ]
                 },
@@ -436,8 +443,15 @@
                         {
                             "Name":"АРЕНДА",
                             "Teacher":"ЗАНЯТО",
+                            "LessonStart":"10:00",
+                            "LessonEnd":"11:00",
+                            "IsGeneral":false
+                        },
+                        {
+                            "Name":"АРЕНДА",
+                            "Teacher":"ЗАНЯТО",
                             "LessonStart":"11:00",
-                            "LessonEnd":"12:00",
+                            "LessonEnd":"13:00",
                             "IsGeneral":false
                         }
                     ]
