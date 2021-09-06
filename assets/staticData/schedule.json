@@ -14,13 +14,6 @@
                             "IsGeneral":true
                         },
                         {
-                            "Name":"KIDS III</br>(7-10 лет)",
-                            "Teacher":"Данил Б.",
-                            "LessonStart":"16:00",
-                            "LessonEnd":"17:00",
-                            "IsGeneral":true
-                        },
-                        {
                             "Name":"JUNIORS I</br>(10-17 лет)",
                             "Teacher":"Данил Б.",
                             "LessonStart":"17:00",
@@ -73,17 +66,10 @@
                     "WeekDay":"СРЕДА",
                     "Groups":[
                         {
-                            "Name":"JUNIORS PRO</br>(10-17 лет)",
+                            "Name":"JUNIORS II</br>(10-17 лет)",
                             "Teacher":"Данил Б.",
                             "LessonStart":"10:30",
                             "LessonEnd":"12:00",
-                            "IsGeneral":true
-                        },
-                        {
-                            "Name":"KIDS III</br>(7-10 лет)",
-                            "Teacher":"Данил Б.",
-                            "LessonStart":"16:00",
-                            "LessonEnd":"17:00",
                             "IsGeneral":true
                         },
                         {
@@ -139,17 +125,10 @@
                     "WeekDay":"ПЯТНИЦА",
                     "Groups":[
                         {
-                            "Name":"JUNIORS PRO</br>(10-17 лет)",
+                            "Name":"JUNIORS II</br>(10-17 лет)",
                             "Teacher":"Данил Б.",
                             "LessonStart":"10:30",
                             "LessonEnd":"12:00",
-                            "IsGeneral":true
-                        },
-                        {
-                            "Name":"KIDS III</br>(7-10 лет)",
-                            "Teacher":"Данил Б.",
-                            "LessonStart":"16:00",
-                            "LessonEnd":"17:00",
                             "IsGeneral":true
                         },
                         {
@@ -214,6 +193,13 @@
                 {
                     "WeekDay":"ПОНЕДЕЛЬНИК",
                     "Groups":[
+                        {
+                            "Name":"KIDS III</br>(7-10 лет)",
+                            "Teacher":"Данил Б.",
+                            "LessonStart":"16:00",
+                            "LessonEnd":"17:00",
+                            "IsGeneral":true
+                        },
                         {
                             "Name":"BABY II</br>(5-6 лет)",
                             "Teacher":"Ксения В.",
