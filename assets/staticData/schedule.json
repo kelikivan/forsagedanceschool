@@ -170,13 +170,6 @@
                             "LessonStart":"16:30",
                             "LessonEnd":"18:00",
                             "IsGeneral":true
-                        },
-                        {
-                            "Name":"ADULTS</br>(17+)",
-                            "Teacher":"Арина С.",
-                            "LessonStart":"18:00",
-                            "LessonEnd":"19:30",
-                            "IsGeneral":true
                         }
                     ]
                 },
@@ -241,11 +234,11 @@
                             "IsGeneral":true
                         },
                         {
-                            "Name":"ADULTS</br>(17+)",
-                            "Teacher":"Арина С.",
+                            "Name":"АРЕНДА",
+                            "Teacher":"ЗАНЯТО",
                             "LessonStart":"20:00",
-                            "LessonEnd":"21:30",
-                            "IsGeneral":true
+                            "LessonEnd":"21:00",
+                            "IsGeneral":false
                         }
                     ]
                 },
@@ -345,6 +338,13 @@
                     "WeekDay":"СУББОТА",
                     "Groups":[
                         {
+                            "Name":"АРЕНДА",
+                            "Teacher":"ЗАНЯТО",
+                            "LessonStart":"10:00",
+                            "LessonEnd":"12:00",
+                            "IsGeneral":false
+                        },
+                        {
                             "Name":"FEMALE</br>(18+ лет)",
                             "Teacher":"Екатерина А.",
                             "LessonStart":"19:00",
@@ -385,12 +385,12 @@
                 {
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
-                        {
-                            "Name":"АРЕНДА",
-                            "Teacher":"ЗАНЯТО",
+                         {
+                            "Name":"ADULTS</br>(17+)",
+                            "Teacher":"Арина С.",
                             "LessonStart":"20:00",
-                            "LessonEnd":"21:00",
-                            "IsGeneral":false
+                            "LessonEnd":"21:30",
+                            "IsGeneral":true
                         }
                     ]
                 },
@@ -448,11 +448,11 @@
                             "IsGeneral":false
                         },
                         {
-                            "Name":"АРЕНДА",
-                            "Teacher":"ЗАНЯТО",
-                            "LessonStart":"11:00",
-                            "LessonEnd":"13:00",
-                            "IsGeneral":false
+                            "Name":"ADULTS</br>(17+)",
+                            "Teacher":"Арина С.",
+                            "LessonStart":"18:00",
+                            "LessonEnd":"19:30",
+                            "IsGeneral":true
                         }
                     ]
                 },
