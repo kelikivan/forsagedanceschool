@@ -385,7 +385,14 @@
                 {
                     "WeekDay":"ВТОРНИК",
                     "Groups":[
-                         {
+                        {
+                            "Name":"BABY III</br>(5-6 лет)",
+                            "Teacher":"Катя И.",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"18:30",
+                            "IsGeneral":true
+                        },
+                        {
                             "Name":"ADULTS</br>(17+)",
                             "Teacher":"Арина С.",
                             "LessonStart":"20:00",
@@ -416,6 +423,13 @@
                 {
                     "WeekDay":"ЧЕТВЕРГ",
                     "Groups":[
+                        {
+                            "Name":"BABY III</br>(5-6 лет)",
+                            "Teacher":"Катя И.",
+                            "LessonStart":"17:30",
+                            "LessonEnd":"18:30",
+                            "IsGeneral":true
+                        }
                     ]
                 },
                 {
