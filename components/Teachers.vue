@@ -37,7 +37,9 @@
     export default {
         data() {
             return {
-                teachers: Data.Teachers,
+                teachers: Data.Teachers.filter(function(teacher){
+                    return teacher.IsVisible === true;
+                }),
                 selectedTeacher: Data.Teachers[0],
                 selectedTeacherIndex: 0,
                 previousOffset: 0,

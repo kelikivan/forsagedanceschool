@@ -8,7 +8,8 @@
         "SmallImagePath":"img/teachers/kelik2.png",
         "Instagram":"https://www.instagram.com/kelik_vanches/",
         "Vk":"https://vk.com/kelik_vanches",
-        "YouTube":"https://youtu.be/2QkkSzZWtrU"
+        "YouTube":"https://youtu.be/2QkkSzZWtrU",
+        "IsVisible":true
     },
     {
         "Name": "ДАНИЛ БУХАРОВ",
@@ -18,7 +19,8 @@
         "SmallImagePath":"img/teachers/buharov2.png",
         "Instagram":"https://www.instagram.com/melky_forsage/",
         "Vk":"https://vk.com/melky_forsage",
-        "YouTube":"https://youtu.be/dzA3H67SKl8"
+        "YouTube":"https://youtu.be/dzA3H67SKl8",
+        "IsVisible":true
     },
     {
         "Name": "ЕКАТЕРИНА ИВОНИНА",
@@ -28,7 +30,8 @@
         "SmallImagePath":"img/teachers/ivonina3.png",
         "Instagram":"https://www.instagram.com/_iva__k/",
         "Vk":"https://vk.com/id57413448",
-        "YouTube":"https://youtu.be/-5Mb9lqRuI4"
+        "YouTube":"https://youtu.be/-5Mb9lqRuI4",
+        "IsVisible":false
     },
     {
         "Name": "АННА КОСЬЯНОВА",
@@ -38,7 +41,8 @@
         "SmallImagePath":"img/teachers/kosyanova2.png",
         "Instagram":"https://www.instagram.com/anchous1581/",
         "Vk":"https://vk.com/anchous1581",
-        "YouTube":""
+        "YouTube":"",
+        "IsVisible":true
     },
     {
         "Name": "ЕКАТЕРИНА АЛЕШИНА",
@@ -48,7 +52,8 @@
         "SmallImagePath":"img/teachers/aleshina2.png",
         "Instagram":"https://www.instagram.com/ale_ale_aleshina/",
         "Vk":"https://vk.com/ale_ale_aleshina",
-        "YouTube":"https://youtu.be/iuZHfs2-ivg"
+        "YouTube":"https://youtu.be/iuZHfs2-ivg",
+        "IsVisible":true
     },
     {
         "Name": "АРИНА СУЛЕЙМАНОВА",
@@ -58,27 +63,8 @@
         "SmallImagePath":"img/teachers/arisha2.png",
         "Instagram":"https://www.instagram.com/daamn_ara/",
         "Vk":"https://vk.com/ara_uzu",
-        "YouTube":"https://youtu.be/EbOXr3PASO0"
-    },
-    {
-        "Name": "ЛИЛИЯ ГАЙФУЛЛИНА",
-        "Styles": "Dancehall, хореография",
-        "Description":"Многократный призер и чемпион России, Европы и Мира по версии Hip Hop Unite.<br><br>Тренер юниорской команды L-CREW<br><br>Осваивала направления: dancehall, vogue, waacking, locking, hip-hop, house, breaking.<br><br>КМС по хип-хопу. Педагог доп образования!",
-        "ImagePath":"img/teachers/lili.png",
-        "SmallImagePath":"img/teachers/lili2.png",
-        "Instagram":"https://www.instagram.com/lili_gaifullina/",
-        "Vk":"https://vk.com/lili_gaifullina",
-        "YouTube":"https://youtu.be/oRsXAWb88VM"
-    },
-    {
-        "Name": "ИРИНА ВАХОНИНА",
-        "Styles": "Преподаватель группы 30+",
-        "Description":"Тренер команды Ural Federal Force<br>Серебряный призер Чемпионата Европы в категориях Adults и Megacrew Hip Hop Unite<br><br>Чемпион России в составе FORCE CREW<br>КМС по хип-хопу.",
-        "ImagePath":"img/teachers/irina.png",
-        "SmallImagePath":"img/teachers/irina2.png",
-        "Instagram":"https://www.instagram.com/vahonina_irishka/",
-        "Vk":"https://vk.com/vahonina_irishka",
-        "YouTube":"https://youtu.be/bIwHwKTRFuQ"
+        "YouTube":"https://youtu.be/EbOXr3PASO0",
+        "IsVisible":true
     }
   ]
 }
