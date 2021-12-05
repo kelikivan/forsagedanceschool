@@ -51,8 +51,7 @@
         },
         methods: {
             getBgImg(url) {
-                // ~/assets/img/teachers/image-vanya@2x.png
-                const imageUrl = require('~/assets/' + `${url}`)
+                const imageUrl = require('~/assets/img/' + `${url}`)
                 return url ? `url(${imageUrl})` : ''
             },
             onTeacherClick(teacher, index = 0) {
