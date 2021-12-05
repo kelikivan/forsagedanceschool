@@ -6,7 +6,7 @@
         "Description":"Руководитель FORSAGE DANCE SCHOOL<br><br>Многократный призер и чемпион России, Европы и Мира по версии Hip Hop Unite.<br><br>Тренер юниорской команды FUNKY FORCE<br>(ТОП-3 России, ТОП-4 Европы, ТОП-5 Мира)<br><br>Участник многих российских и мировых баттлов по hip-hop, popping, all styles!<br><br>Участник проекта ТАНЦЫ на ТНТ 5 сезон.",
         "ImagePath":"teachers/v2/kelik.png",
         "SmallImagePath":"teachers/v2/kelik-small.png",
-        "Instagram":"https://www.instagram.com/kelik_vanches/",
+        "Inst":"https://www.instagram.com/kelik_vanches/",
         "Vk":"https://vk.com/kelik_vanches",
         "YouTube":"https://youtu.be/2QkkSzZWtrU",
         "IsVisible":true
@@ -17,7 +17,7 @@
         "Description":"Многократный призер и чемпион России, Европы и Мира по версии Hip Hop Unite.<br><br>Тренер юниорской команды FANTASY FORCE<br><br>Универсальный танцор. Хореограф.<br>Постановщик танцевальных шоу.<br><br>КМС по хип-хопу.",
         "ImagePath":"teachers/v2/melky.png",
         "SmallImagePath":"teachers/v2/melky-small.png",
-        "Instagram":"https://www.instagram.com/melky_forsage/",
+        "Inst":"https://www.instagram.com/melky_forsage/",
         "Vk":"https://vk.com/melky_forsage",
         "YouTube":"https://youtu.be/dzA3H67SKl8",
         "IsVisible":true
@@ -28,8 +28,8 @@
         "Description":"Участник команды ФОРСАЖ</br>Серебряный призер чемпионата России,</br>Чемпион Европы по версии Hip Hop Unite<br><br>Чемпион России и серебрянный призер Европы в составе FORCE CREW<br><br>КМС по хип-хопу. Педагог доп образования!",
         "ImagePath":"teachers/v2/anna-k.png",
         "SmallImagePath":"teachers/v2/anna-k-small.png",
-        "Instagram":"https://www.instagram.com/anchous1581/",
-        "Vk":"https://vk.com/anchous1581",
+        "Inst":"https://www.instagram.com/anchous_forsage/",
+        "Vk":"https://vk.com/anchous_forsage",
         "YouTube":"",
         "IsVisible":true
     },
@@ -39,7 +39,7 @@
         "Description":"Бронзовый призер Чемпиона России и Мира по версии Hip Hop Unite 2019 г.",
         "ImagePath":"teachers/v2/ksuha.png",
         "SmallImagePath":"teachers/v2/ksuha-small.png",
-        "Instagram":"",
+        "Inst":"",
         "Vk":"",
         "YouTube":"",
         "IsVisible":true
@@ -50,7 +50,7 @@
         "Description":"Победитель и призер разнообразных чемпионатов Екатеринбурга, Свердловской области и России.<br><br>Чемпион России, а также Серебрянный призер чемпионата Европы в составе команды FORCE CREW по версии Hip Hop Unite 2018 г.<br><br>Серебрянный и бронзовый призер чемпионата УрФО и ПФО в категориях Adults и Megacrew в 2019 г.",
         "ImagePath":"teachers/v1/ivonina.png",
         "SmallImagePath":"teachers/v1/ivonina-small.png",
-        "Instagram":"https://www.instagram.com/_iva__k/",
+        "Inst":"https://www.instagram.com/_iva__k/",
         "Vk":"https://vk.com/id57413448",
         "YouTube":"https://youtu.be/-5Mb9lqRuI4",
         "IsVisible":false
@@ -61,7 +61,7 @@
         "Description":"Участник команды Ural Federal Force<br>Серебряный призер Чемпионата Европы в категориях Adults и Megacrew Hip Hop Unite<br><br>Чемпион России в составе FORCE CREW<br>КМС по хип-хопу.",
         "ImagePath":"teachers/v2/arisha.png",
         "SmallImagePath":"teachers/v2/arisha-small.png",
-        "Instagram":"https://www.instagram.com/daamn_ara/",
+        "Inst":"https://www.instagram.com/daamn_ara/",
         "Vk":"https://vk.com/ara_uzu",
         "YouTube":"https://youtu.be/EbOXr3PASO0",
         "IsVisible":true
@@ -72,18 +72,18 @@
         "Description":"Тренер и капитан команды Force Majeure<br><br>Чемпион всероссийских соревнований 'Уральский пьедестал'<br>Победитель Student Dance Fest<br><br>Призёр чемпионата области и УрФО",
         "ImagePath":"teachers/v2/aleshina.png",
         "SmallImagePath":"teachers/v2/aleshina-small.png",
-        "Instagram":"https://www.instagram.com/ale_ale_aleshina/",
+        "Inst":"https://www.instagram.com/ale_ale_aleshina/",
         "Vk":"https://vk.com/ale_ale_aleshina",
         "YouTube":"https://youtu.be/iuZHfs2-ivg",
         "IsVisible":true
     },
     {
-        "Name": "АНАСТАСИЯ ДАВЫДЕНКО",
+        "Name": "НАСТЯ ДАВЫДЕНКО",
         "Styles": "Dancehall, High Heels",
         "Description":"Участник команды Force Majeure",
         "ImagePath":"teachers/v2/nastya.png",
         "SmallImagePath":"teachers/v2/nastya-small.png",
-        "Instagram":"",
+        "Inst":"",
         "Vk":"",
         "YouTube":"",
         "IsVisible":true

@@ -17,11 +17,11 @@
                         .name
                             span(v-html="selectedTeacher.Name")
                             .social
-                                a.social-link(:href="selectedTeacher.Instagram", target="_blank")
+                                a.social-link(v-if="selectedTeacher.Inst" :href="selectedTeacher.Inst", target="_blank")
                                     InstaLogo
-                                a.social-link(:href="selectedTeacher.Vk", target="_blank")
+                                a.social-link(v-if="selectedTeacher.Vk" :href="selectedTeacher.Vk", target="_blank")
                                     VkLogo
-                                a.social-link(:href="selectedTeacher.YouTube", target="_blank")
+                                a.social-link(v-if="selectedTeacher.YouTube" :href="selectedTeacher.YouTube", target="_blank")
                                     YouTubeLogo
                         .style(v-html="selectedTeacher.Styles")
                         .description.text_default(v-html="selectedTeacher.Description")
@@ -190,6 +190,8 @@
 
                     .social
                         display flex
+                        position absolute
+                        right 10px
 
                         .social-link
                             cursor pointer
