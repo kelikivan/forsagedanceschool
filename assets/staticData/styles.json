@@ -1,12 +1,8 @@
 {
   "Styles": [
     {
-      "StyleName": "ПРОМО-ВИДЕО",
-      "YouTubeLink": "https://www.youtube.com/embed/sVpF4EbTXeU?rel=0"
-    },
-    {
       "StyleName": "HIP-HOP",
-      "YouTubeLink": "https://www.youtube.com/embed/etMuWS_lDLY?rel=0"
+      "YouTubeLink": "https://www.youtube.com/embed/2QkkSzZWtrU?rel=0"
     },
     {
       "StyleName": "HOUSE DANCE",
@@ -14,11 +10,11 @@
     },
     {
       "StyleName": "DANCEHALL",
-      "YouTubeLink": "https://www.youtube.com/embed/IXZreHqsfsM?rel=0"
+      "YouTubeLink": "https://www.youtube.com/embed/iuZHfs2-ivg?rel=0"
     },
     {
       "StyleName": "VOGUE",
-      "YouTubeLink": "https://www.youtube.com/embed/4Bp7FKkFWlM?rel=0"
+      "YouTubeLink": "https://www.youtube.com/embed/1p1i-WDP5Os?rel=0"
     },
     {
       "StyleName": "BREAKING",
@@ -38,7 +34,7 @@
     },
     {
       "StyleName": "CHOREO",
-      "YouTubeLink": "https://www.youtube.com/embed/7yZWDbf5MT8?rel=0"
+      "YouTubeLink": "https://www.youtube.com/embed/k5zWqHA4l0Y?rel=0"
     }
   ]
 }
