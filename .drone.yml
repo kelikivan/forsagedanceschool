@@ -4,7 +4,7 @@ name: default
 
 steps:
 - name: install
-  image: node:alpine
+  image: node:16-alpine3.12
   commands:
     - npm install
   when:
@@ -17,7 +17,7 @@ steps:
 
 
 - name: build/client
-  image: node:alpine
+  image: node:16-alpine3.12
   environment:
     NODE_ENV: production
   secrets: [ ssh_key ]
@@ -29,10 +29,10 @@ steps:
     event:
       - push
       - pull_request
-      
-      
+
+
 - name: deploy
-  image: node:alpine
+  image: node:16-alpine3.12
   secrets: [ ssh_key ]
   commands:
     - npm install gulp
