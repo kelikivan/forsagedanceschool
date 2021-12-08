@@ -2,8 +2,8 @@
     "Teachers": [
     {
         "Name": "ИВАН КЕЛИК",
-        "Styles": "All Styles, тренер команд",
-        "Description":"Руководитель FORSAGE DANCE SCHOOL<br><br>Многократный призер и чемпион России, Европы и Мира по версии Hip Hop Unite.<br><br>Тренер юниорской команды FUNKY FORCE<br>(ТОП-3 России, ТОП-4 Европы, ТОП-5 Мира)<br><br>Участник многих российских и мировых баттлов по hip-hop, popping, all styles!<br><br>Участник проекта ТАНЦЫ на ТНТ 5 сезон.",
+        "Styles": "All styles (тренер KIDS I и PRO)",
+        "Description":"Руководитель FORSAGE DANCE SCHOOL<br>Организатор Ural Dance Camp<br><br>Многократный призер и чемпион России, Европы и Мира Hip Hop Unite<br><br>Тренер юниорской команды FUNKY FORCE, бронзовых призеров России и Мира 2019<br><br>Участник многих российских и мировых баттлов по hip-hop и all styles",
         "ImagePath":"teachers/v2/kelik.png",
         "SmallImagePath":"teachers/v2/kelik-small.png",
         "Inst":"https://www.instagram.com/kelik_vanches/",
@@ -13,8 +13,8 @@
     },
     {
         "Name": "ДАНИЛ БУХАРОВ",
-        "Styles": "All Styles, тренер команд",
-        "Description":"Многократный призер и чемпион России, Европы и Мира по версии Hip Hop Unite.<br><br>Тренер юниорской команды FANTASY FORCE<br><br>Универсальный танцор. Хореограф.<br>Постановщик танцевальных шоу.<br><br>КМС по хип-хопу.",
+        "Styles": "All styles (тренер KIDS III и JUNIORS I-II и PRO)",
+        "Description":"Многократный призер и чемпион России, Европы и Мира Hip Hop Unite<br><br>Руководитель шоу-проекта CHIMICHANGA<br><br>Тренер юниорской команды FANTASY FORCE<br><br>Универсальный танцор и хореограф<br>КМС по хип-хопу",
         "ImagePath":"teachers/v2/melky.png",
         "SmallImagePath":"teachers/v2/melky-small.png",
         "Inst":"https://www.instagram.com/melky_forsage/",
@@ -24,30 +24,30 @@
     },
     {
         "Name": "АННА КЕЛИК",
-        "Styles": "Преподаватель групп BABY и KIDS",
-        "Description":"Участник команды ФОРСАЖ</br>Серебряный призер чемпионата России,</br>Чемпион Европы по версии Hip Hop Unite<br><br>Чемпион России и серебрянный призер Европы в составе FORCE CREW<br><br>КМС по хип-хопу. Педагог доп образования!",
+        "Styles": "All styles (тренер BABY I)",
+        "Description":"Педагог дополнительного образования в области хореографии<br><br>Серебряный призер чемпионата России,</br>чемпион Европы Hip Hop Unite в составе команды ФОРСАЖ<br><br>Чемпион России и серебряный призер чемпионата Европы в составе FORCE CREW<br><br>КМС по хип-хопу",
         "ImagePath":"teachers/v2/anna-k.png",
         "SmallImagePath":"teachers/v2/anna-k-small.png",
         "Inst":"https://www.instagram.com/anchous_forsage/",
-        "Vk":"https://vk.com/anchous_forsage",
+        "Vk":"https://vk.com/anchous1581",
         "YouTube":"",
         "IsVisible":true
     },
     {
         "Name": "КСЕНИЯ ВОРОШИЛОВА",
-        "Styles": "Преподаватель групп BABY и KIDS",
-        "Description":"Бронзовый призер Чемпиона России и Мира по версии Hip Hop Unite 2019 г.",
+        "Styles": "All styles (тренер BABY II и KIDS IV)",
+        "Description":"Бронзовый призер Чемпиона России и Мира Hip Hop Unite 2019 в составе Funky Force<br><br>Победитель чемпионата УрФО Hip Hop Unite 2020 в составе дуэта B-Force<br><br>Участница российских батлов по all styles",
         "ImagePath":"teachers/v2/ksuha.png",
         "SmallImagePath":"teachers/v2/ksuha-small.png",
         "Inst":"",
-        "Vk":"",
-        "YouTube":"",
+        "Vk":"https://vk.com/voroshilovaksksks",
+        "YouTube":"https://youtu.be/vK2WHLV8PjU",
         "IsVisible":true
     },
     {
         "Name": "ЕКАТЕРИНА ИВОНИНА",
-        "Styles": "Преподаватель групп BABY и KIDS",
-        "Description":"Победитель и призер разнообразных чемпионатов Екатеринбурга, Свердловской области и России.<br><br>Чемпион России, а также Серебрянный призер чемпионата Европы в составе команды FORCE CREW по версии Hip Hop Unite 2018 г.<br><br>Серебрянный и бронзовый призер чемпионата УрФО и ПФО в категориях Adults и Megacrew в 2019 г.",
+        "Styles": "All styles (тренер BABY III, KIDS IV и V)",
+        "Description":"Победитель и призер разнообразных чемпионатов Екатеринбурга, Свердловской области и России<br><br>Чемпион России и серебряный призер чемпионата Европы Hip Hop Unite 2018 в составе команды FORCE CREW<br><br>Серебряный и бронзовый призер чемпионата УрФО и ПФО в категориях Adults и Megacrew в 2019",
         "ImagePath":"teachers/v1/ivonina.png",
         "SmallImagePath":"teachers/v1/ivonina-small.png",
         "Inst":"https://www.instagram.com/_iva__k/",
@@ -57,8 +57,8 @@
     },
     {
         "Name": "АРИНА СУЛЕЙМАНОВА",
-        "Styles": "House Dance, Hip-Hop",
-        "Description":"Участник команды Ural Federal Force<br>Серебряный призер Чемпионата Европы в категориях Adults и Megacrew Hip Hop Unite<br><br>Чемпион России в составе FORCE CREW<br>КМС по хип-хопу.",
+        "Styles": "All styles (тренер ADULTS и SENIORS)",
+        "Description":"Участник команды Ural Federal Force<br>Серебряный призер Чемпионата Европы в категориях Adults и Megacrew Hip Hop Unite<br><br>Чемпион России в составе FORCE CREW<br>КМС по хип-хопу",
         "ImagePath":"teachers/v2/arisha.png",
         "SmallImagePath":"teachers/v2/arisha-small.png",
         "Inst":"https://www.instagram.com/daamn_ara/",
@@ -68,8 +68,8 @@
     },
     {
         "Name": "ЕКАТЕРИНА АЛЕШИНА",
-        "Styles": "Dancehall",
-        "Description":"Тренер и капитан команды Force Majeure<br><br>Чемпион всероссийских соревнований 'Уральский пьедестал'<br>Победитель Student Dance Fest<br><br>Призёр чемпионата области и УрФО",
+        "Styles": "Dancehall, High heels (тренер FEMALE GROUP)",
+        "Description":"Педагог дополнительного образования в области хореографии<br><br>Организатор Dancehall Pull Up<br>Главный тренер команды Force Majeure Crew<br><br>Победитель и призёр многих чемпионатов<br>Победитель чемпионата Stay Lit 2021",
         "ImagePath":"teachers/v2/aleshina.png",
         "SmallImagePath":"teachers/v2/aleshina-small.png",
         "Inst":"https://www.instagram.com/ale_ale_aleshina/",
@@ -78,15 +78,26 @@
         "IsVisible":true
     },
     {
-        "Name": "НАСТЯ ДАВЫДЕНКО",
-        "Styles": "Dancehall, High Heels",
+        "Name": "АНАСТАСИЯ ДАВЫДЕНКО",
+        "Styles": "Dancehall, High heels (тренер FEMALE GROUP)",
         "Description":"Участник команды Force Majeure",
         "ImagePath":"teachers/v2/nastya.png",
         "SmallImagePath":"teachers/v2/nastya-small.png",
-        "Inst":"",
-        "Vk":"",
+        "Inst":"https://www.instagram.com/yourdavidoff/",
+        "Vk":"https://vk.com/anastasiadavidoff",
         "YouTube":"",
         "IsVisible":true
+    },
+    {
+        "Name": "ИРИНА КАРДАШИНА",
+        "Styles": "All styles (тренер JUNIORS III)",
+        "Description":"Бронзовый призер Чемпиона России и Мира Hip Hop Unite 2019 в составе Funky Force<br><br>Победитель чемпионата УрФО Hip Hop Unite 2020 в составе дуэта B-Force<br><br>Участница российских батлов по all styles",
+        "ImagePath":"teachers/v2/nastya.png",
+        "SmallImagePath":"teachers/v2/nastya-small.png",
+        "Inst":"https://www.instagram.com/kardashkina_irina/",
+        "Vk":"https://vk.com/irinakardashina",
+        "YouTube":"https://youtu.be/1sDAqXhfEaQ",
+        "IsVisible":false
     }
   ]
 }
