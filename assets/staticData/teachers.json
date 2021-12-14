@@ -48,12 +48,12 @@
         "Name": "ЕКАТЕРИНА ИВОНИНА",
         "Styles": "All styles (тренер BABY III, KIDS IV и V)",
         "Description":"Победитель и призер разнообразных чемпионатов Екатеринбурга, Свердловской области и России<br><br>Чемпион России и серебряный призер чемпионата Европы Hip Hop Unite 2018 в составе команды FORCE CREW<br><br>Серебряный и бронзовый призер чемпионата УрФО и ПФО в категориях Adults и Megacrew в 2019",
-        "ImagePath":"teachers/v1/ivonina.png",
-        "SmallImagePath":"teachers/v1/ivonina-small.png",
+        "ImagePath":"teachers/v2/ivonina.png",
+        "SmallImagePath":"teachers/v2/ivonina-small.png",
         "Inst":"https://www.instagram.com/_iva__k/",
         "Vk":"https://vk.com/id57413448",
         "YouTube":"https://youtu.be/-5Mb9lqRuI4",
-        "IsVisible":false
+        "IsVisible":true
     },
     {
         "Name": "АРИНА СУЛЕЙМАНОВА",
@@ -92,12 +92,12 @@
         "Name": "ИРИНА КАРДАШИНА",
         "Styles": "All styles (тренер JUNIORS III)",
         "Description":"Бронзовый призер Чемпиона России и Мира Hip Hop Unite 2019 в составе Funky Force<br><br>Победитель чемпионата УрФО Hip Hop Unite 2020 в составе дуэта B-Force<br><br>Участница российских батлов по all styles",
-        "ImagePath":"teachers/v2/nastya.png",
-        "SmallImagePath":"teachers/v2/nastya-small.png",
+        "ImagePath":"teachers/v2/kardashina.png",
+        "SmallImagePath":"teachers/v2/kardashina-small.png",
         "Inst":"https://www.instagram.com/kardashkina_irina/",
         "Vk":"https://vk.com/irinakardashina",
         "YouTube":"https://youtu.be/1sDAqXhfEaQ",
-        "IsVisible":false
+        "IsVisible":true
     }
   ]
 }
