@@ -2,22 +2,22 @@
   "Partners": [
     {
       "Name": "",
-      "ImagePath": "img/partners/pullup.png",
-      "Link": ""
-    },
-    {
-      "Name": "",
-      "ImagePath": "img/partners/forsage.png",
-      "Link": ""
-    },
-    {
-      "Name": "",
       "ImagePath": "img/partners/udc.png",
       "Link": ""
     },
     {
       "Name": "",
+      "ImagePath": "img/partners/pullup.png",
+      "Link": ""
+    },
+    {
+      "Name": "",
       "ImagePath": "img/partners/urfu.png",
+      "Link": ""
+    },
+    {
+      "Name": "",
+      "ImagePath": "img/partners/forsage.png",
       "Link": ""
     }
   ]
