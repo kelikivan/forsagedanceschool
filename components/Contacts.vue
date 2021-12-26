@@ -45,6 +45,7 @@
                     :zoom="madData.zoom"
                     :style="madData.style"
                     :map-link="madData.apiLink"
+                    :scroll-zoom="false"
                 )
                     ymap-marker(
                         marker-id="1"
