@@ -1,7 +1,7 @@
 <template lang="pug">
     .container
         //Падение снежинок
-        let-it-snow(v-bind="snowConf" :show="show")
+        //let-it-snow(v-bind="snowConf" :show="show")
 
         section#header
             Header(@open="openPopup")
@@ -19,9 +19,9 @@
             Schedule(@open="openPopup")
         section#projects
             Projects
-        section#instagram
+        //section#instagram
             Instagram
-        section#newyear
+        //section#newyear
             NewYear(@open="openPopup")
         section#contacts
             Contacts(@open="openPopup")
