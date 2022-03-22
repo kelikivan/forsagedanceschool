@@ -10,7 +10,7 @@
                 .item.youtube
                     a(:href="contacts.YouTube", target="_blank")
                         youtubeLogo
-                .item.insta
+                //.item.insta
                     a(:href="contacts.Instagram", target="_blank")
                         instaLogo
 
@@ -29,7 +29,7 @@
                 .item.youtube
                     a(:href="contacts.YouTube", target="_blank")
                         youtubeLogo
-                .item.insta
+                //.item.insta
                     a(:href="contacts.Instagram", target="_blank")
                         instaLogo
 
@@ -61,7 +61,7 @@
     import { yandexMap, ymapMarker } from 'vue-yandex-maps'
     import vkLogo from '~/assets/img/social/vk.svg'
     import youtubeLogo from '~/assets/img/social/youtube.svg'
-    import instaLogo from '~/assets/img/social/instagram.svg'
+    //import instaLogo from '~/assets/img/social/instagram.svg'
 
     import Data from '~/assets/staticData/contacts.json'
     import Button from '@/components/commons/Button.vue'
@@ -90,7 +90,7 @@
             ymapMarker,
             vkLogo,
             youtubeLogo,
-            instaLogo,
+            //instaLogo,
         },
         methods: {
         },

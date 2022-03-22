@@ -17,7 +17,7 @@
                         .name
                             span(v-html="selectedTeacher.Name")
                             .social
-                                a.social-link(v-if="selectedTeacher.Inst" :href="selectedTeacher.Inst", target="_blank")
+                                //a.social-link(v-if="selectedTeacher.Inst" :href="selectedTeacher.Inst", target="_blank")
                                     InstaLogo
                                 a.social-link(v-if="selectedTeacher.Vk" :href="selectedTeacher.Vk", target="_blank")
                                     VkLogo
@@ -30,7 +30,7 @@
 
 <script>
     import Data from '~/assets/staticData/teachers.json'
-    import InstaLogo from '~/assets/img/social/instagram-logo.svg'
+    //import InstaLogo from '~/assets/img/social/instagram-logo.svg'
     import VkLogo from '~/assets/img/social/vk-logo.svg'
     import YouTubeLogo from '~/assets/img/social/youtube-logo.svg'
 
@@ -45,7 +45,7 @@
             }
         },
         components: {
-            InstaLogo,
+            //InstaLogo,
             VkLogo,
             YouTubeLogo
         },
