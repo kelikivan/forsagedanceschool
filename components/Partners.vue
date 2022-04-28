@@ -76,8 +76,7 @@
             color whiteMain
 
         .swiper-container.partners
-            width 100%
-            padding 5px
+            width 1150px
 
             .swiper-wrapper
                 a
@@ -132,12 +131,30 @@
                 &:hover
                     text-decoration none
 
+    @media only screen and (max-width 1220px)
+        .partners_container
+            .swiper-container.partners
+                width 100%
+                padding 5px
+
+    @media only screen and (max-width 1110px)
+        .partners_container
+            .swiper-container.partners
+                width 700px
+
     @media only screen and (max-width 767px)
         .partners_container
             padding $PaddingContainersMobile
             .swiper-container.partners
+                width 250px
                 .swiper-wrapper
                     .swiper-slide
                         margin 5px 5px
+
+    @media only screen and (max-width 400px)
+        .partners_container
+            .swiper-container.partners
+                width 100%
+                padding 5px
 
 </style>
