@@ -157,13 +157,6 @@
                             "LessonStart":"19:30",
                             "LessonEnd":"21:00",
                             "IsGeneral":true
-                        },
-                        {
-                            "Name":"FEMALE</br>(18+ лет)",
-                            "Teacher":"Екатерина А.",
-                            "LessonStart":"21:00",
-                            "LessonEnd":"22:30",
-                            "IsGeneral":true
                         }
                     ]
                 },
@@ -201,13 +194,6 @@
                             "Teacher":"Ксения В.",
                             "LessonStart":"18:30",
                             "LessonEnd":"19:30",
-                            "IsGeneral":true
-                        },
-                        {
-                            "Name":"FEMALE</br>(18+ лет)",
-                            "Teacher":"Анастасия Д.",
-                            "LessonStart":"20:30",
-                            "LessonEnd":"22:00",
                             "IsGeneral":true
                         }
                     ]
