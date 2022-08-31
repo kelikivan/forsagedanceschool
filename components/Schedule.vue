@@ -39,7 +39,7 @@
 
 <script>
     import Button from '@/components/commons/Button.vue'
-    import Shedule from '~/assets/staticData/schedule-summer.json'
+    import Shedule from '~/assets/staticData/schedule.json'
 
     const scheduleTimes = [
         { id: 1, time: '10:00', },
