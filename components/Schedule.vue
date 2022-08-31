@@ -44,6 +44,7 @@
     const scheduleTimes = [
         { id: 1, time: '10:00', },
         { id: 2, time: '11:00', },
+        { id: 3, time: '12:00', },
         { id: 4, time: '16:00', },
         { id: 5, time: '17:00', },
         { id: 6, time: '18:00', },
