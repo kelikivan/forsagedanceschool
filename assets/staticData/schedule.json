@@ -196,7 +196,7 @@
               "Name": "KIDS PRO</br>(8-10 лет)",
               "Teacher": "Иван К.",
               "LessonStart": "10:00",
-              "LessonEnd": "11:30",
+              "LessonEnd": "12:00",
               "IsGeneral": true
             },
             {
@@ -264,7 +264,7 @@
               "Name": "FEMALE</br>(18+ лет)",
               "Teacher": "Екатерина А.",
               "LessonStart": "20:30",
-              "LessonEnd": "21:30",
+              "LessonEnd": "22:00",
               "IsGeneral": true
             }
           ]
@@ -422,13 +422,6 @@
               "LessonStart": "19:00",
               "LessonEnd": "21:00",
               "IsGeneral": false
-            },
-            {
-              "Name": "АРЕНДА",
-              "Teacher": "ЗАНЯТО",
-              "LessonStart": "21:00",
-              "LessonEnd": "22:00",
-              "IsGeneral": false
             }
           ]
         },
@@ -471,13 +464,6 @@
               "Teacher": "ЗАНЯТО",
               "LessonStart": "10:00",
               "LessonEnd": "11:00",
-              "IsGeneral": false
-            },
-            {
-              "Name": "АРЕНДА",
-              "Teacher": "ЗАНЯТО",
-              "LessonStart": "11:00",
-              "LessonEnd": "12:00",
               "IsGeneral": false
             }
           ]
