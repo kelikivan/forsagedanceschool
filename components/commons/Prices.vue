@@ -68,7 +68,7 @@
 </script>
 
 <style lang="stylus">
-    $WidthCell = 100px
+    $WidthCell = 110px
 
     .prices_container
         text-align center
@@ -89,7 +89,7 @@
             display none
 
         .prices_table
-            width 500px
+            width 530px
             margin 0 auto
 
             .header
@@ -223,7 +223,7 @@
 
 
             .prices_table
-                width 300px
+                width 330px
                 .header
                     .desktop
                         display none
