@@ -254,7 +254,7 @@
               "IsGeneral": true
             },
             {
-              "Name": "FEMALE</br>(18+ лет)",
+              "Name": "FEMALE</br>(18+)",
               "Teacher": "Екатерина А.",
               "LessonStart": "20:30",
               "LessonEnd": "22:00",
@@ -320,7 +320,7 @@
               "IsGeneral": true
             },
             {
-              "Name": "FEMALE</br>(18+ лет)",
+              "Name": "FEMALE</br>(18+)",
               "Teacher": "Екатерина А.",
               "LessonStart": "21:00",
               "LessonEnd": "22:30",
