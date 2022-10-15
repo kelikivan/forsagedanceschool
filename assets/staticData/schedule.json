@@ -379,8 +379,8 @@
           "WeekDay": "ПОНЕДЕЛЬНИК",
           "Groups": [
             {
-              "Name": "Бальные танцы",
-              "Teacher": "для детей",
+              "Name": "Бальные танцы</br>(для детей)",
+              "Teacher": "запись: 8-912-620-20-21",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
@@ -391,6 +391,13 @@
           "WeekDay": "ВТОРНИК",
           "Groups": [
             {
+              "Name": "Йога (для взрослых)",
+              "Teacher": "запись: 8-988-344-48-54",
+              "LessonStart": "08:00",
+              "LessonEnd": "09:00",
+              "IsGeneral": false
+            },
+            {
               "Name": "BABY III</br>(5-6 лет)",
               "Teacher": "Мария С.",
               "LessonStart": "17:30",
@@ -398,8 +405,8 @@
               "IsGeneral": true
             },
             {
-              "Name": "Бальные танцы",
-              "Teacher": "для детей",
+              "Name": "Бальные танцы</br>(для детей)",
+              "Teacher": "запись: 8-912-620-20-21",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
@@ -410,8 +417,8 @@
           "WeekDay": "СРЕДА",
           "Groups": [
             {
-              "Name": "Бальные танцы",
-              "Teacher": "для детей",
+              "Name": "Бальные танцы</br>(для детей)",
+              "Teacher": "запись: 8-912-620-20-21",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
@@ -422,6 +429,13 @@
           "WeekDay": "ЧЕТВЕРГ",
           "Groups": [
             {
+              "Name": "Йога (для взрослых)",
+              "Teacher": "запись: 8-988-344-48-54",
+              "LessonStart": "08:00",
+              "LessonEnd": "09:00",
+              "IsGeneral": false
+            },
+            {
               "Name": "BABY III</br>(5-6 лет)",
               "Teacher": "Мария С.",
               "LessonStart": "17:30",
@@ -429,10 +443,17 @@
               "IsGeneral": true
             },
             {
-              "Name": "Бальные танцы",
-              "Teacher": "для детей",
+              "Name": "Бальные танцы</br>(для детей)",
+              "Teacher": "запись: 8-912-620-20-21",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
+              "IsGeneral": false
+            },
+            {
+              "Name": "Йога (для взрослых)",
+              "Teacher": "запись: 8-988-344-48-54",
+              "LessonStart": "21:00",
+              "LessonEnd": "22:00",
               "IsGeneral": false
             }
           ]
@@ -443,7 +464,15 @@
         },
         {
           "WeekDay": "СУББОТА",
-          "Groups": []
+          "Groups": [
+            {
+              "Name": "Йога (для взрослых)",
+              "Teacher": "запись: 8-988-344-48-54",
+              "LessonStart": "09:00",
+              "LessonEnd": "10:00",
+              "IsGeneral": false
+            }
+          ]
         },
         {
           "WeekDay": "ВОСКРЕСЕНЬЕ",
