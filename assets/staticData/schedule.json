@@ -379,8 +379,8 @@
           "WeekDay": "ПОНЕДЕЛЬНИК",
           "Groups": [
             {
-              "Name": "АРЕНДА",
-              "Teacher": "ЗАНЯТО",
+              "Name": "Бальные танцы",
+              "Teacher": "для детей",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
@@ -398,8 +398,8 @@
               "IsGeneral": true
             },
             {
-              "Name": "АРЕНДА",
-              "Teacher": "ЗАНЯТО",
+              "Name": "Бальные танцы",
+              "Teacher": "для детей",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
@@ -410,8 +410,8 @@
           "WeekDay": "СРЕДА",
           "Groups": [
             {
-              "Name": "АРЕНДА",
-              "Teacher": "ЗАНЯТО",
+              "Name": "Бальные танцы",
+              "Teacher": "для детей",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
@@ -429,8 +429,8 @@
               "IsGeneral": true
             },
             {
-              "Name": "АРЕНДА",
-              "Teacher": "ЗАНЯТО",
+              "Name": "Бальные танцы",
+              "Teacher": "для детей",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
