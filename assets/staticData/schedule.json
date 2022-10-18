@@ -235,8 +235,8 @@
             {
               "Name": "JUNIORS III</br>(10-15 лет)",
               "Teacher": "Ксения В.",
-              "LessonStart": "16:00",
-              "LessonEnd": "17:30",
+              "LessonStart": "17:00",
+              "LessonEnd": "18:30",
               "IsGeneral": true
             },
             {
@@ -301,8 +301,8 @@
             {
               "Name": "JUNIORS III</br>(10-15 лет)",
               "Teacher": "Ксения В.",
-              "LessonStart": "16:00",
-              "LessonEnd": "17:30",
+              "LessonStart": "17:00",
+              "LessonEnd": "18:30",
               "IsGeneral": true
             },
             {
@@ -334,8 +334,8 @@
             {
               "Name": "JUNIORS III</br>(10-15 лет)",
               "Teacher": "Ксения В.",
-              "LessonStart": "16:00",
-              "LessonEnd": "17:30",
+              "LessonStart": "17:00",
+              "LessonEnd": "18:30",
               "IsGeneral": true
             },
             {
@@ -398,6 +398,13 @@
               "IsGeneral": false
             },
             {
+              "Name": "Стретчинг",
+              "Teacher": "8-919-386-87-11",
+              "LessonStart": "09:00",
+              "LessonEnd": "10:00",
+              "IsGeneral": false
+            },
+            {
               "Name": "BABY III</br>(5-6 лет)",
               "Teacher": "Мария С.",
               "LessonStart": "17:30",
@@ -409,6 +416,13 @@
               "Teacher": "8-912-620-20-21",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
+              "IsGeneral": false
+            },
+            {
+              "Name": "Стретчинг",
+              "Teacher": "8-919-386-87-11",
+              "LessonStart": "20:00",
+              "LessonEnd": "21:00",
               "IsGeneral": false
             }
           ]
@@ -436,6 +450,13 @@
               "IsGeneral": false
             },
             {
+              "Name": "Стретчинг",
+              "Teacher": "8-919-386-87-11",
+              "LessonStart": "09:00",
+              "LessonEnd": "10:00",
+              "IsGeneral": false
+            },
+            {
               "Name": "BABY III</br>(5-6 лет)",
               "Teacher": "Мария С.",
               "LessonStart": "17:30",
@@ -460,7 +481,15 @@
         },
         {
           "WeekDay": "ПЯТНИЦА",
-          "Groups": []
+          "Groups": [
+            {
+              "Name": "Стретчинг",
+              "Teacher": "8-919-386-87-11",
+              "LessonStart": "20:00",
+              "LessonEnd": "21:00",
+              "IsGeneral": false
+            }
+          ]
         },
         {
           "WeekDay": "СУББОТА",
