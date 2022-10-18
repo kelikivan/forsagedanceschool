@@ -235,8 +235,8 @@
             {
               "Name": "JUNIORS III</br>(10-15 лет)",
               "Teacher": "Ксения В.",
-              "LessonStart": "16:00",
-              "LessonEnd": "17:30",
+              "LessonStart": "17:00",
+              "LessonEnd": "18:30",
               "IsGeneral": true
             },
             {
@@ -301,8 +301,8 @@
             {
               "Name": "JUNIORS III</br>(10-15 лет)",
               "Teacher": "Ксения В.",
-              "LessonStart": "16:00",
-              "LessonEnd": "17:30",
+              "LessonStart": "17:00",
+              "LessonEnd": "18:30",
               "IsGeneral": true
             },
             {
@@ -334,8 +334,8 @@
             {
               "Name": "JUNIORS III</br>(10-15 лет)",
               "Teacher": "Ксения В.",
-              "LessonStart": "16:00",
-              "LessonEnd": "17:30",
+              "LessonStart": "17:00",
+              "LessonEnd": "18:30",
               "IsGeneral": true
             },
             {
@@ -380,7 +380,7 @@
           "Groups": [
             {
               "Name": "Бальные танцы</br>(для детей)",
-              "Teacher": "запись: 8-912-620-20-21",
+              "Teacher": "8-912-620-20-21",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
@@ -391,10 +391,17 @@
           "WeekDay": "ВТОРНИК",
           "Groups": [
             {
-              "Name": "Йога (для взрослых)",
-              "Teacher": "запись: 8-988-344-48-54",
+              "Name": "Йога (18+)",
+              "Teacher": "8-988-344-48-54",
               "LessonStart": "08:00",
               "LessonEnd": "09:00",
+              "IsGeneral": false
+            },
+            {
+              "Name": "Стретчинг",
+              "Teacher": "8-919-386-87-11",
+              "LessonStart": "09:00",
+              "LessonEnd": "10:00",
               "IsGeneral": false
             },
             {
@@ -406,9 +413,16 @@
             },
             {
               "Name": "Бальные танцы</br>(для детей)",
-              "Teacher": "запись: 8-912-620-20-21",
+              "Teacher": "8-912-620-20-21",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
+              "IsGeneral": false
+            },
+            {
+              "Name": "Стретчинг",
+              "Teacher": "8-919-386-87-11",
+              "LessonStart": "20:00",
+              "LessonEnd": "21:00",
               "IsGeneral": false
             }
           ]
@@ -418,7 +432,7 @@
           "Groups": [
             {
               "Name": "Бальные танцы</br>(для детей)",
-              "Teacher": "запись: 8-912-620-20-21",
+              "Teacher": "8-912-620-20-21",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
@@ -429,10 +443,17 @@
           "WeekDay": "ЧЕТВЕРГ",
           "Groups": [
             {
-              "Name": "Йога (для взрослых)",
-              "Teacher": "запись: 8-988-344-48-54",
+              "Name": "Йога (18+)",
+              "Teacher": "8-988-344-48-54",
               "LessonStart": "08:00",
               "LessonEnd": "09:00",
+              "IsGeneral": false
+            },
+            {
+              "Name": "Стретчинг",
+              "Teacher": "8-919-386-87-11",
+              "LessonStart": "09:00",
+              "LessonEnd": "10:00",
               "IsGeneral": false
             },
             {
@@ -444,14 +465,14 @@
             },
             {
               "Name": "Бальные танцы</br>(для детей)",
-              "Teacher": "запись: 8-912-620-20-21",
+              "Teacher": "8-912-620-20-21",
               "LessonStart": "19:00",
               "LessonEnd": "20:00",
               "IsGeneral": false
             },
             {
-              "Name": "Йога (для взрослых)",
-              "Teacher": "запись: 8-988-344-48-54",
+              "Name": "Йога (18+)",
+              "Teacher": "8-988-344-48-54",
               "LessonStart": "21:00",
               "LessonEnd": "22:00",
               "IsGeneral": false
@@ -460,14 +481,22 @@
         },
         {
           "WeekDay": "ПЯТНИЦА",
-          "Groups": []
+          "Groups": [
+            {
+              "Name": "Стретчинг",
+              "Teacher": "8-919-386-87-11",
+              "LessonStart": "20:00",
+              "LessonEnd": "21:00",
+              "IsGeneral": false
+            }
+          ]
         },
         {
           "WeekDay": "СУББОТА",
           "Groups": [
             {
-              "Name": "Йога (для взрослых)",
-              "Teacher": "запись: 8-988-344-48-54",
+              "Name": "Йога (18+)",
+              "Teacher": "8-988-344-48-54",
               "LessonStart": "09:00",
               "LessonEnd": "10:00",
               "IsGeneral": false
