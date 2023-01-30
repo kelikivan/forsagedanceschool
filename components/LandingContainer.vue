@@ -21,7 +21,7 @@
             Projects
         //section#instagram
             Instagram
-        section#newyear
+        //section#newyear
             NewYear(@open="openPopup")
         section#contacts
             Contacts(@open="openPopup")
