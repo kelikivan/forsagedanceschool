@@ -1,6 +1,6 @@
 # forsage
 
-[![Build Status](https://cloud.drone.io/api/badges/potapovnikita/forsage/status.svg)](https://cloud.drone.io/potapovnikita/forsage)
+[![Build Status](https://cloud.drone.io/api/badges/kelikivan/forsagedanceschool/status.svg)](https://cloud.drone.io/kelikivan/forsagedanceschool)
 
 > forsage site
 
