@@ -1,5 +1,4 @@
-kind: secret
-type: docker
+kind: pipeline
 name: default
 
 steps:
