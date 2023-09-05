@@ -1,4 +1,4 @@
-kind: pipeline
+kind: secret
 type: docker
 name: default
 
