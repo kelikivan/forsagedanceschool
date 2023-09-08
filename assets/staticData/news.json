@@ -1,25 +1,39 @@
 {
   "News": [
     {
-      "ImageLink": "img/news/newseason.jpg",
-      "Name": "НОВЫЙ НАБОР 2022",
-      "Date": "31 августа",
-      "Description": "Присоединяйся к нашей большой танцевальной семье🔥",
-      "PostLink": "https://vk.com/forsage_dance_school?w=wall-120234843_2539"
+      "ImageLink": "img/news/open-classes.png",
+      "Name": "ОТКРЫТЫЕ КЛАССЫ",
+      "Date": "10 сентября",
+      "Description": "День открытых дверей в нашей школе танцев😉",
+      "PostLink": "https://vk.com/forsage_dance_school?w=wall-120234843_2932"
     },
     {
-      "ImageLink": "img/news/udc.jpg",
+      "ImageLink": "img/news/casting.png",
+      "Name": "КАСТИНГ в КОМАНДЫ",
+      "Date": "28-29 августа",
+      "Description": "Кастинг в наши проф команды🔥",
+      "PostLink": "https://vk.com/forsage_dance_school?w=wall-120234843_2915"
+    },
+    {
+      "ImageLink": "img/news/forsage.png",
+      "Name": "УНИВЕРСИАДА 2023",
+      "Date": "19-31 августа",
+      "Description": "Студенческий коллектив ФОРСАЖ и наши педагоги участвовали в открытии и закрытии студенческой универсиады 2023😉",
+      "PostLink": "https://vk.com/forsage_dance_school?w=wall-120234843_2924"
+    },
+    {
+      "ImageLink": "img/news/udc.png",
       "Name": "URAL DANCE CAMP",
-      "Date": "24 августа",
+      "Date": "25-27 августа",
       "Description": "Самый крупный танцевальный лагерь на Урале и делаем его мы😉",
-      "PostLink": "https://vk.com/forsage_dance_school?w=wall-120234843_2532"
+      "PostLink": "https://vk.com/forsage_dance_school?w=wall-120234843_2897"
     },
     {
-      "ImageLink": "img/news/camp.jpg",
-      "Name": "KIDS PRO CAMP",
-      "Date": "9 августа",
-      "Description": "Летний танцевальный лагерь для детей уровня - PRO💪",
-      "PostLink": "https://vk.com/forsage_dance_school?w=wall-120234843_2502"
+      "ImageLink": "img/news/camp.png",
+      "Name": "Детский лагерь",
+      "Date": "31 июля - 11 августа",
+      "Description": "Летний танцевальный лагерь для детей💪",
+      "PostLink": "https://vk.com/forsage_dance_school?w=wall-120234843_2910"
     }
   ]
 }
