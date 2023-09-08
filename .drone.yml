@@ -1,7 +1,6 @@
 kind: pipeline
 name: default
 
-
 steps:
 - name: install
   image: node:16-alpine3.12
