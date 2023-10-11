@@ -23,28 +23,6 @@
         "IsVisible":true
     },
     {
-        "Name": "ДАНИЛ БУХАРОВ",
-        "Styles": "тренер групп KIDS III, JUNIORS I-II и команды JUNIORS PRO",
-        "Description":"Многократный призер и чемпион России, Европы и Мира Hip Hop Unite<br><br>Руководитель шоу-проекта CHIMICHANGA<br><br>Тренер юниорской про-команды<br><br>Универсальный танцор и хореограф<br>КМС по хип-хопу",
-        "ImagePath":"teachers/v2/melky.png",
-        "SmallImagePath":"teachers/v2/melky-small.png",
-        "Inst":"https://www.instagram.com/melky_forsage/",
-        "Vk":"https://vk.com/melky_forsage",
-        "YouTube":"https://youtu.be/dzA3H67SKl8",
-        "IsVisible":true
-    },
-    {
-        "Name": "КСЕНИЯ ВОРОШИЛОВА",
-        "Styles": "тренер групп BABY II, KIDS IV и JUNIORS III",
-        "Description":"Бронзовый призер Чемпиона России и Мира Hip Hop Unite 2019 в составе Funky Force<br><br>Победитель чемпионата УрФО Hip Hop Unite 2020 в составе дуэта B-Force<br><br>Участница российских батлов по all styles",
-        "ImagePath":"teachers/v2/ksuha.png",
-        "SmallImagePath":"teachers/v2/ksuha-small.png",
-        "Inst":"",
-        "Vk":"https://vk.com/voroshilovaksksks",
-        "YouTube":"https://youtu.be/83g_E0Lp3lg",
-        "IsVisible":true
-    },
-    {
         "Name": "МАРИЯ СЕРГЕЕВА",
         "Styles": "тренер группы BABY III",
         "Description":"Призер и участница региональных чемпионатов в составе команды ANUKANAKA crew: MDC, Hip Hop Unite, Legenda<br><br>Победитель в баттлах HIP-HOP Inventors<br><br>Прокачивалась на мастер-классах у большого количества топовых танцоров",
